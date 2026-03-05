@@ -251,36 +251,3 @@ aryan = {
 
 </div>
 
-<!--
-╔═══════════════════════════════════════════════════════╗
-║           🐍 SNAKE GITHUB ACTION SETUP 🐍             ║
-╠═══════════════════════════════════════════════════════╣
-║  1. Create repo: Aryan-lomte05/Aryan-lomte05          ║
-║  2. Add this README.md                                ║
-║  3. Create .github/workflows/snake.yml:               ║
-╚═══════════════════════════════════════════════════════╝
-
-name: Generate Snake 🐍
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Aryan-lomte05
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->

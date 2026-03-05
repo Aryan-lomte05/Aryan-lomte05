@@ -1,9 +1,11 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--                  ANIMATED HEADER                      -->
+<!-- ══════════════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ARYAN%20LOMTE&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%9A%A1%20GenAI%20Developer%20%E2%9A%A1%20Team%20Lead&descAlignY=60&descColor=aef&descSize=20"/>
 
-<!-- PIXEL FONT TYPING ANIMATION -->
+<!-- PIXEL FONT BOOT SEQUENCE -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00D4FF&center=true&vCenter=true&width=820&lines=%3E+INITIALIZING+ARYAN.EXE...;%3E+LOADING+AI+SYSTEMS...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+300%2C000%2B+CVEs+PROCESSED+%E2%9C%94;%3E+LLM+PIPELINES+ONLINE+%E2%9C%94;%3E+8-ENGINEER+TEAM+DEPLOYED+%E2%9C%94;%3E+SYSTEM+READY.+LET%27S+BUILD." alt="Typing SVG" />
 
 <br/>
@@ -30,7 +32,7 @@
 </p>
 
 <!-- PIXEL CODER GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
 
@@ -100,23 +102,84 @@ aryan = {
 
 ---
 
+## 🌐 LIVE PROJECTS
+
+<div align="center">
+
+> *Click to visit the live deployments 👇*
+
+<p>
+<a href="https://murder-mystery-cyan.vercel.app">
+  <img src="https://img.shields.io/badge/🔪_Murder_Mystery-LIVE-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://agritech-e-cesa.vercel.app">
+  <img src="https://img.shields.io/badge/🌾_AgriTech_Hackathon-LIVE-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+</a>
+<!-- ADD MORE VERCEL LINKS BELOW — copy the pattern above:
+<a href="https://YOUR-APP.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_YOUR_APP_NAME-LIVE-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+</a>
+-->
+</p>
+
+</div>
+
+---
+
+## ⏱️ WAKATIME CODING STATS
+
+<!--
+  ════════════════════════════════════════════════════
+  HOW TO SET UP WAKATIME (takes 5 mins):
+
+  STEP 1 — Install WakaTime:
+    → Go to https://wakatime.com/plugins
+    → Install the plugin for VS Code (or whatever editor you use)
+    → Sign up at wakatime.com and paste your API key when prompted
+
+  STEP 2 — Create the GitHub Action:
+    → In your Aryan-lomte05 profile repo create:
+      .github/workflows/waka-readme.yml
+    → Paste the YAML at the bottom of this file (in the comment)
+
+  STEP 3 — Add your WakaTime API key as a secret:
+    → Go to your profile repo → Settings → Secrets → Actions
+    → New secret: name = WAKATIME_API_KEY, value = your key from wakatime.com/settings
+
+  STEP 4 — Run the Action once manually
+    → Actions tab → "Waka Readme" → Run workflow
+
+  The section below will auto-update every day after that!
+  ════════════════════════════════════════════════════
+-->
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+⌛ This week's coding time will appear here after WakaTime setup!
+   See setup instructions above ↑
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
 ## 📊 CONTRIBUTION METRICS
 
 <div align="center">
 
-<!-- FULL WIDTH PROFILE DETAILS -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-lomte05&theme=tokyonight&hide_border=true" width="100%"/>
 
 <br/>
 
-<!-- 3 CARDS ROW: languages by repo | languages by commit | productive time -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan-lomte05&theme=tokyonight&hide_border=true" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan-lomte05&theme=tokyonight&hide_border=true" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-lomte05&theme=tokyonight&hide_border=true&utcOffset=5.5" width="32%"/>
 
 <br/>
 
-<!-- STATS CARD + GITHUB STATS SIDE BY SIDE -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan-lomte05&theme=tokyonight&hide_border=true" width="32%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Aryan-lomte05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="65%"/>
 
@@ -129,7 +192,7 @@ aryan = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-lomte05&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-lomte05&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6b6b&currStreakLabel=70a5fd"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Aryan-lomte05&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6b6b&currStreakLabel=70a5fd"/>
 
 </div>
 
@@ -212,6 +275,40 @@ aryan = {
 
 ---
 
+## 👾 PAC-MAN CONTRIBUTION GRAPH
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/pacman-contribution-graph.svg"/>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/pacman-contribution-graph-dark.svg"/>
+</picture>
+
+<!--
+  ════════════════════════════════════════════════════
+  PAC-MAN SETUP — add this job to your snake.yml file:
+  (or create a separate .github/workflows/pacman.yml)
+
+  - uses: hugovk/pacman-contribution-graph@main   ← NOT yet official
+  
+  EASIER METHOD: use the same Platane/snk action,
+  just add these extra output lines to your existing snake.yml:
+
+      outputs: |
+        dist/github-contribution-grid-snake.svg
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        dist/pacman-contribution-graph.svg?renderer=pacman
+        dist/pacman-contribution-graph-dark.svg?renderer=pacman&palette=github-dark
+
+  That's it — same Action, just 2 extra lines! 🎮
+  ════════════════════════════════════════════════════
+-->
+
+</div>
+
+---
+
 ## 🏅 CERTIFICATIONS
 
 <div align="center">
@@ -219,9 +316,9 @@ aryan = {
 | | Certification | Issuer | Year |
 |:---:|:---|:---|:---:|
 | <img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white"/> | IBM AI Developer Professional Certificate | Coursera (IBM) | **2025** |
-| <img src="https://img.shields.io/badge/🥈-C0C0C0?style=flat-square"/> | Programming in Java — **Silver Medalist** | NPTEL · IIT Kharagpur | **2025** |
-| <img src="https://img.shields.io/badge/ML-FF6B6B?style=flat-square"/> | Introduction to Machine Learning | NPTEL · IIT Madras | **2025** |
-| <img src="https://img.shields.io/badge/🐍-4ECDC4?style=flat-square"/> | Python for Data Science | NPTEL · IIT Madras | **2025** |
+| 🥈 | Programming in Java — **Silver Medalist** | NPTEL · IIT Kharagpur | **2025** |
+| 🧠 | Introduction to Machine Learning | NPTEL · IIT Madras | **2025** |
+| 🐍 | Python for Data Science | NPTEL · IIT Madras | **2025** |
 
 </div>
 
@@ -246,8 +343,6 @@ aryan = {
 
 <br/>
 
-<!-- ANIMATED WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
-

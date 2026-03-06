@@ -306,11 +306,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 ---
 
-## 🐍 COMMIT SNAKE  &  👾 PAC-MAN
+## 🐍 COMMIT SNAKE  &  👾 PAC-MAN CHASES THE SNAKE
 
 <div align="center">
 
-**🐍 Snake**
+**🐍 Snake eating your commits**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-dark.svg"/>
@@ -320,12 +320,12 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 <br/><br/>
 
-**👾 Pac-Man**
+**👾 Pac-Man hunting the snake — 3 cells behind, same path**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/pacman-contribution-graph.svg"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman.svg"/>
+  <img alt="pacman chasing snake" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman-dark.svg"/>
 </picture>
 
 </div>

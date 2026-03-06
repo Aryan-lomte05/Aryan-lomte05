@@ -1,23 +1,60 @@
-name: Generate Snake & Pac-Man 🐍👾
+name: Generate Snake + Pac-Man Chaser 🐍👾
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+
+      # ── Step 1: Generate the snake SVGs (light + dark) ──────────────────────
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: Aryan-lomte05
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/pacman-contribution-graph.svg?renderer=pacman
-            dist/pacman-contribution-graph-dark.svg?renderer=pacman&palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      # ── Step 2: Inject Pac-Man into both SVGs ───────────────────────────────
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Copy inject script into dist/
+        run: |
+          cp inject_pacman.py dist/ 2>/dev/null || true
+
+      - name: Download inject script if not in repo
+        run: |
+          if [ ! -f "inject_pacman.py" ]; then
+            echo "inject_pacman.py not found in repo root — please add it!"
+            exit 1
+          fi
+          cp inject_pacman.py dist/
+
+      - name: Inject Pac-Man into light snake SVG
+        run: |
+          python3 inject_pacman.py \
+            dist/github-contribution-grid-snake.svg \
+            dist/github-contribution-grid-snake-pacman.svg
+
+      - name: Inject Pac-Man into dark snake SVG
+        run: |
+          python3 inject_pacman.py \
+            dist/github-contribution-grid-snake-dark.svg \
+            dist/github-contribution-grid-snake-pacman-dark.svg
+
+      # ── Step 3: Push everything to the output branch ────────────────────────
+      - name: Push all SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist

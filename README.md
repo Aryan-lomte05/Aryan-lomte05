@@ -134,9 +134,79 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 793.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 229 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 7 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-Loading WakaTime stats...
+🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+🌆 Daytime                152 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+🌃 Evening                316 commits         ████████░░░░░░░░░░░░░░░░░   30.33 % 
+🌙 Night                  473 commits         ███████████░░░░░░░░░░░░░░   45.39 % 
 ```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Tuesday                  241 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Wednesday                236 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Thursday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Saturday                 193 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Sunday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   15 repos            ██████████░░░░░░░░░░░░░░░   39.47 % 
+JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/03/2026 16:40:57 UTC
 <!--END_SECTION:waka-->
 
 ---

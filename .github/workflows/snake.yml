@@ -32,7 +32,7 @@ jobs:
 
       - name: Copy inject script into dist/
         run: |
-          cp inject_pacman.py dist/ 2>/dev/null || true
+          sudo cp inject_pacman.py dist/ 2>/dev/null || true
 
       - name: Download inject script if not in repo
         run: |
@@ -40,7 +40,7 @@ jobs:
             echo "inject_pacman.py not found in repo root — please add it!"
             exit 1
           fi
-          cp inject_pacman.py dist/
+          sudo cp inject_pacman.py dist/
 
       - name: Inject Pac-Man into light snake SVG
         run: |

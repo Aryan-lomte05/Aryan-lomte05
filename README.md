@@ -150,19 +150,19 @@ aryan = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 797.9 kB Used in GitHub's Storage 
- > 
+> 📦 797.9 kB Used in GitHub's Storage
+ >
 > 🏆 251 Contributions in the Year 2026
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 22 Public Repositories
+ >
+> 🔑 8 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
@@ -170,7 +170,8 @@ aryan = {
 🌃 Evening                316 commits         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
 🌙 Night                  494 commits         ████████████░░░░░░░░░░░░░   46.47 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
 Monday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
@@ -182,8 +183,7 @@ Saturday                 214 commits         █████░░░░░░�
 Sunday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
@@ -201,7 +201,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
 Python                   15 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
@@ -211,12 +211,9 @@ Java                     2 repos             █░░░░░░░░░░�
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
-
 
  Last Updated on 07/03/2026 01:15:40 UTC
 <!--END_SECTION:waka-->
@@ -318,7 +315,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 <div align="center">
 
 [![SmartStudyPlanner](https://github-readme-stats.vercel.app/api/pin/?username=Aryan-lomte05&repo=SmartStudyPlanner&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)](https://github.com/Aryan-lomte05/SmartStudyPlanner)
-[![MurderMystery](https://github-readme-stats.vercel.app/api/pin/?username=Aryan-lomte05&repo=MurderMystery&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)](https://github.com/Aryan-lomte05/MurderMystery)
 [![AgriTech](https://github-readme-stats.vercel.app/api/pin/?username=Aryan-lomte05&repo=AgriTech-E-CESA&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)](https://github.com/Aryan-lomte05/AgriTech-E-CESA)
 [![CyberThreatAPI](https://github-readme-stats.vercel.app/api/pin/?username=Aryan-lomte05&repo=cyber-threat-api&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)](https://github.com/Aryan-lomte05/cyber-threat-api)
 
@@ -326,21 +322,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 ---
 
-## 🐍 COMMIT SNAKE  &  👾 PAC-MAN CHASES THE SNAKE
+## 👾 PAC-MAN CHASES YOUR COMMITS
 
 <div align="center">
 
-**🐍 Snake eating your commits**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-<br/><br/>
-
-**👾 Pac-Man hunting the snake — 3 cells behind, same path**
+**Pac-Man hunting the snake — 3 cells behind, same path**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman-dark.svg"/>

@@ -28,7 +28,7 @@
 <p>
 <a href="https://aryan-lomte.in"><img src="https://img.shields.io/badge/Portfolio-aryan--lomte.in-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117"/></a>
 <a href="mailto:aryan.lomte@somaiya.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://www.linkedin.com/in/aryan-lomte-99ab68310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://linkedin.com/in/aryan-lomte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://github.com/Aryan-lomte05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
@@ -58,8 +58,8 @@ aryan = {
         "LLM Fine-tuning  →  LoRA | QLoRA | Unsloth | PEFT",
         "RAG Pipelines    →  Chroma | FAISS | embeddings",
         "AI at scale      →  60K events/sec | 300K+ CVEs",
+        "Full-Stack Dev   →  React | Next.js | TypeScript",
         "Team Leadership  →  8 • 17 • 30 engineers led",
-        "Hackathon mode   →  ship in 96hrs, win 🏆",
     ],
 
     "numbers_that_slap": {

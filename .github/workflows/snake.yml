@@ -44,13 +44,13 @@ jobs:
 
       - name: Inject Pac-Man into light snake SVG
         run: |
-          python3 inject_pacman.py \
+          sudo python3 inject_pacman.py \
             dist/github-contribution-grid-snake.svg \
             dist/github-contribution-grid-snake-pacman.svg
 
       - name: Inject Pac-Man into dark snake SVG
         run: |
-          python3 inject_pacman.py \
+          sudo python3 inject_pacman.py \
             dist/github-contribution-grid-snake-dark.svg \
             dist/github-contribution-grid-snake-pacman-dark.svg
 

@@ -26,6 +26,7 @@
 
 <!-- SOCIAL LINKS -->
 <p>
+<a href="https://aryan-lomte.in"><img src="https://img.shields.io/badge/Portfolio-aryan--lomte.in-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117"/></a>
 <a href="mailto:aryan.lomte@somaiya.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://www.linkedin.com/in/aryan-lomte-99ab68310/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://github.com/Aryan-lomte05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
@@ -51,6 +52,7 @@ aryan = {
     "education"  : "B.Tech CSBS @ KJ Somaiya School of Engineering 🎓",
     "cgpa"       : 9.66,
     "location"   : "Mumbai, India 🇮🇳  (UTC +5:30)",
+    "portfolio"  : "https://aryan-lomte.in 🌐",
 
     "superpowers": [
         "LLM Fine-tuning  →  LoRA | QLoRA | Unsloth | PEFT",
@@ -127,6 +129,18 @@ aryan = {
 </a>
 </p>
 
+</div>
+
+---
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aryan-lomte05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Aryan's GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -254,6 +268,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 <div align="center">
 
 ### 🧠 AI & MACHINE LEARNING
+
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 <p>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -267,12 +282,15 @@ HTML                     1 repo              █░░░░░░░░░░�
 </p>
 
 ### 🚀 BACKEND & APIs
+
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,express,docker&theme=dark" />
 
 ### 🎨 FRONTEND
+
 <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css&theme=dark" />
 
 ### ☁️ CLOUD & INFRA
+
 <img src="https://skillicons.dev/icons?i=azure,docker,vercel,github,githubactions&theme=dark" />
 <p>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
@@ -282,9 +300,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 </p>
 
 ### 🗄️ DATABASES
+
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" />
 
 ### 💻 LANGUAGES
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,typescript,javascript&theme=dark" />
 
 </div>

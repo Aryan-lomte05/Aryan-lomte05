@@ -12,6 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       # ── Step 1: Generate the snake SVGs (light + dark) ──────────────────────
       - name: Generate snake SVGs

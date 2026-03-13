@@ -191,19 +191,22 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               30 mins             █████████████████████████   99.88 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               40 mins             █████████████████░░░░░░░░   66.31 % 
+JavaScript               12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Antigravity              30 mins             █████████████████████████   100.00 % 
+Antigravity              1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Portfolio_Website        30 mins             █████████████████████████   99.97 % 
-Aryan-lomte05            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+decay_ai-main            30 mins             █████████████░░░░░░░░░░░░   50.11 % 
+Portfolio_Website        30 mins             ████████████░░░░░░░░░░░░░   49.87 % 
+Aryan-lomte05            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -223,7 +226,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 01:13:39 UTC
+ Last Updated on 13/03/2026 01:19:37 UTC
 <!--END_SECTION:waka-->
 
 ---

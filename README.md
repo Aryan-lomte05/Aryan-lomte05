@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-69-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -191,22 +191,22 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 36 mins        ███████████░░░░░░░░░░░░░░   44.61 % 
-TypeScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-JavaScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Bash                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Python                   1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   32.78 % 
+JavaScript               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Bash                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 36 mins       █████████████████████████   100.00 % 
+Antigravity              4 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-floatchatai-main         1 hr 48 mins        █████████████░░░░░░░░░░░░   50.20 % 
-CVE-Engine-V2            1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   35.53 % 
-decay_ai-main            30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+CVE-Engine-V2            2 hrs 35 mins       █████████████░░░░░░░░░░░░   52.63 % 
+floatchatai-main         1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   36.89 % 
+decay_ai-main            30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 
 💻 Operating System: 
-Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +226,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 01:21:25 UTC
+ Last Updated on 18/03/2026 01:25:30 UTC
 <!--END_SECTION:waka-->
 
 ---

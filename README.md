@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-🌆 Daytime                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-🌃 Evening                556 commits         █████████░░░░░░░░░░░░░░░░   37.72 % 
-🌙 Night                  590 commits         ██████████░░░░░░░░░░░░░░░   40.03 % 
+🌞 Morning                106 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+🌆 Daytime                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+🌃 Evening                565 commits         ██████████░░░░░░░░░░░░░░░   38.10 % 
+🌙 Night                  590 commits         ██████████░░░░░░░░░░░░░░░   39.78 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Tuesday                  282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Wednesday                293 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Thursday                 89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Friday                   275 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Saturday                 299 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Sunday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Monday                   89 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Tuesday                  282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Wednesday                293 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Thursday                 92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Friday                   275 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Saturday                 305 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Sunday                   147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 ```
 
 
@@ -191,24 +191,24 @@ Sunday                   147 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.15 % 
-JavaScript               1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Bash                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+JavaScript               1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+Python                   1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Bash                     1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 🔥 Editors: 
-Antigravity              6 hrs 48 mins       █████████████████████████   100.00 % 
+Antigravity              5 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CVE-Engine-V2            2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.50 % 
-floatchatai-main         1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-Cyberflix                1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-DeepRead-RAG-system      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-LAAOMiniProject          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+CVE-Engine-V2            2 hrs 49 mins       ██████████████░░░░░░░░░░░   56.01 % 
+Cyberflix                1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+DeepRead-RAG-system      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+LAAOMiniProject          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+floatchatai-main         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Windows                  6 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -228,7 +228,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2026 01:20:36 UTC
+ Last Updated on 21/03/2026 01:16:01 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -150,7 +150,7 @@ aryan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -191,24 +191,24 @@ Sunday                   147 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Python                   1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-Bash                     1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Python                   2 hrs               ████████░░░░░░░░░░░░░░░░░   32.38 % 
+JavaScript               1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Bash                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🔥 Editors: 
-Antigravity              5 hrs 2 mins        █████████████████████████   100.00 % 
+Antigravity              6 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CVE-Engine-V2            2 hrs 49 mins       ██████████████░░░░░░░░░░░   56.01 % 
-Cyberflix                1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-DeepRead-RAG-system      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-LAAOMiniProject          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-floatchatai-main         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+CVE-Engine-V2            3 hrs 42 mins       ███████████████░░░░░░░░░░   59.97 % 
+Cyberflix                1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+DeepRead-RAG-system      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+LAAOMiniProject          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+cve-audit-ml-service     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 💻 Operating System: 
-Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -228,7 +228,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2026 01:16:01 UTC
+ Last Updated on 22/03/2026 01:24:40 UTC
 <!--END_SECTION:waka-->
 
 ---

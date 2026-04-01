@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌆 Daytime                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌃 Evening                786 commits         ███████████░░░░░░░░░░░░░░   44.16 % 
-🌙 Night                  639 commits         █████████░░░░░░░░░░░░░░░░   35.90 % 
+🌞 Morning                129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+🌆 Daytime                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+🌃 Evening                777 commits         ███████████░░░░░░░░░░░░░░   43.87 % 
+🌙 Night                  639 commits         █████████░░░░░░░░░░░░░░░░   36.08 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Wednesday                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Thursday                 97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Saturday                 318 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Sunday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Monday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Wednesday                309 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Thursday                 94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Saturday                 312 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Sunday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
 ```
 
 
@@ -191,21 +191,21 @@ Sunday                   366 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 20 mins       ████████████████░░░░░░░░░   62.90 % 
-Bash                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Python                   9 hrs 51 mins       █████████████████░░░░░░░░   68.44 % 
+Bash                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-Antigravity              13 hrs 16 mins      █████████████████████████   100.00 % 
+Antigravity              14 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BudgetBandhu             11 hrs 43 mins      ██████████████████████░░░   88.30 % 
-CVE-Engine-V2            1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+BudgetBandhu             11 hrs 35 mins      ████████████████████░░░░░   80.57 % 
+CVE-Engine-V2            2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 
 💻 Operating System: 
-Windows                  13 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -225,7 +225,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2026 01:30:32 UTC
+ Last Updated on 01/04/2026 01:51:44 UTC
 <!--END_SECTION:waka-->
 
 ---

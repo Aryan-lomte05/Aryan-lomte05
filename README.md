@@ -150,7 +150,7 @@ aryan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-🌆 Daytime                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-🌃 Evening                799 commits         ███████████░░░░░░░░░░░░░░   43.80 % 
-🌙 Night                  670 commits         █████████░░░░░░░░░░░░░░░░   36.73 % 
+🌞 Morning                129 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+🌆 Daytime                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🌃 Evening                802 commits         ███████████░░░░░░░░░░░░░░   43.90 % 
+🌙 Night                  670 commits         █████████░░░░░░░░░░░░░░░░   36.67 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Wednesday                350 commits         █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Thursday                 100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Saturday                 318 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Sunday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Monday                   95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Tuesday                  308 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Wednesday                350 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Thursday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Saturday                 320 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Sunday                   366 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
 ```
 
 
@@ -191,21 +191,22 @@ Sunday                   366 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   9 hrs 41 mins       █████████████████░░░░░░░░   69.33 % 
-Bash                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   10 hrs 5 mins       ██████████████████░░░░░░░   70.14 % 
+Bash                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Git Config               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Antigravity              13 hrs 58 mins      █████████████████████████   100.00 % 
+Antigravity              14 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BudgetBandhu             11 hrs 35 mins      █████████████████████░░░░   83.02 % 
-CVE-Engine-V2            2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+BudgetBandhu             11 hrs 33 mins      ████████████████████░░░░░   80.35 % 
+CVE-Engine-V2            2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+LAAO_Aryan               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 💻 Operating System: 
-Windows                  13 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -225,7 +226,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 01:28:12 UTC
+ Last Updated on 03/04/2026 01:29:42 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-🌆 Daytime                228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-🌃 Evening                806 commits         ███████████░░░░░░░░░░░░░░   43.36 % 
-🌙 Night                  690 commits         █████████░░░░░░░░░░░░░░░░   37.12 % 
+🌞 Morning                135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+🌆 Daytime                247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌃 Evening                835 commits         ███████████░░░░░░░░░░░░░░   42.65 % 
+🌙 Night                  741 commits         █████████░░░░░░░░░░░░░░░░   37.84 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Tuesday                  321 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Wednesday                358 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Thursday                 101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Saturday                 320 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Sunday                   374 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Monday                   102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Tuesday                  339 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Wednesday                399 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Thursday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Saturday                 342 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Sunday                   385 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
 ```
 
 
@@ -191,32 +191,34 @@ Sunday                   374 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 46 mins       ████████████████████░░░░░   79.46 % 
-Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Image (svg)              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   4 hrs 50 mins       █████████████████░░░░░░░░   69.14 % 
+Bash                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Image (svg)              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Antigravity              11 hrs 2 mins       █████████████████████████   100.00 % 
+Antigravity              7 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-BudgetBandhu             8 hrs 21 mins       ███████████████████░░░░░░   75.60 % 
-CVE-Engine-V2            2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-LAAO_Aryan               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+BudgetBandhu             2 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
+CVE-Engine-V2            2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+Cyberflix                1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+LAAO_Aryan               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+CyberFlixLMS             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Windows                  11 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   18 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
@@ -226,7 +228,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 01:24:07 UTC
+ Last Updated on 05/04/2026 01:47:20 UTC
 <!--END_SECTION:waka-->
 
 ---

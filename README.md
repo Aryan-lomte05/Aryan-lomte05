@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-🌆 Daytime                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-🌃 Evening                904 commits         ██████████░░░░░░░░░░░░░░░   41.15 % 
-🌙 Night                  882 commits         ██████████░░░░░░░░░░░░░░░   40.15 % 
+🌞 Morning                141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+🌆 Daytime                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+🌃 Evening                913 commits         ██████████░░░░░░░░░░░░░░░   41.39 % 
+🌙 Night                  882 commits         ██████████░░░░░░░░░░░░░░░   39.98 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Tuesday                  417 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Wednesday                464 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Thursday                 112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Friday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Saturday                 383 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Sunday                   407 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Monday                   115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Tuesday                  417 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Wednesday                464 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Thursday                 115 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Friday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 389 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Sunday                   407 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
 ```
 
 
@@ -191,24 +191,24 @@ Sunday                   407 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   40.38 % 
-Python                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+JavaScript               2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.10 % 
+Python                   52 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+YAML                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 21 mins       █████████████████████████   100.00 % 
+Antigravity              4 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CyberFlixLMS             2 hrs 49 mins       ████████████████░░░░░░░░░   64.92 % 
-CVE-Engine-V2            39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-LogiFlow                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-frontend                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Cyberflix                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+CyberFlixLMS             3 hrs 14 mins       █████████████████░░░░░░░░   67.64 % 
+CVE-Engine-V2            39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+LogiFlow                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+frontend                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Cyberflix                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 💻 Operating System: 
-Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -228,7 +228,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2026 01:47:04 UTC
+ Last Updated on 16/04/2026 01:55:28 UTC
 <!--END_SECTION:waka-->
 
 ---

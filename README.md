@@ -276,7 +276,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 ## 🚀 FEATURED PROJECTS
 
-> ⚠️ **Note:** Pin cards only show for **public** repos. If a card shows broken, the repo is likely private. Make it public on GitHub to show the card.
+
 
 <div align="center">
 

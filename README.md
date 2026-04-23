@@ -148,7 +148,7 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -191,24 +191,24 @@ Sunday                   408 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   33.59 % 
-JSON                     55 mins             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Text                     51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Python                   2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.50 % 
+Text                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+JSON                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 55 mins       █████████████████████████   100.00 % 
+Antigravity              5 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ios-AntiSpyware-Final    1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-LAAOMiniProject          50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-AryWrites                45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-LogiFlow                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-CyberFlixLMS             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+GenAI Proj               1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Ios-AntiSpyware-Final    1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+LAAOMiniProject          50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+AryWrites                45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+FGAI_Aryan               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 
 💻 Operating System: 
-Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -228,7 +228,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2026 01:50:49 UTC
+ Last Updated on 23/04/2026 01:55:17 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-🌆 Daytime                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-🌃 Evening                1045 commits        ██████████░░░░░░░░░░░░░░░   41.90 % 
-🌙 Night                  998 commits         ██████████░░░░░░░░░░░░░░░   40.02 % 
+🌞 Morning                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+🌆 Daytime                331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+🌃 Evening                1118 commits        ██████████░░░░░░░░░░░░░░░   41.53 % 
+🌙 Night                  1096 commits        ██████████░░░░░░░░░░░░░░░   40.71 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Tuesday                  471 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Wednesday                493 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Thursday                 216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Friday                   299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Saturday                 440 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Sunday                   439 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Monday                   152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Tuesday                  518 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Wednesday                543 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Thursday                 244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Saturday                 472 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Sunday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 ```
 
 
@@ -191,23 +191,22 @@ Sunday                   439 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-JSON                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+JavaScript               38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+JSON                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 36 mins       █████████████████████████   100.00 % 
+Antigravity              2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-darc-website             1 hr 28 mins        ██████████████░░░░░░░░░░░   56.95 % 
-DARC                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-CyberFlixLMS             30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-LogiFlow                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+darc-website             1 hr 28 mins        ██████████████░░░░░░░░░░░   57.51 % 
+DARC                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+CyberFlixLMS             30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -227,7 +226,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2026 02:13:27 UTC
+ Last Updated on 02/05/2026 02:00:26 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -191,22 +191,22 @@ Sunday                   452 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Markdown                 22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-JSON                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-TypeScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+JavaScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Text                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🔥 Editors: 
-Antigravity              2 hrs 34 mins       █████████████████████████   100.00 % 
+Antigravity              1 hr 49 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-darc-website             1 hr 28 mins        ██████████████░░░░░░░░░░░   57.51 % 
-DARC                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-CyberFlixLMS             30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+darc-website             1 hr 2 mins         ██████████████░░░░░░░░░░░   57.53 % 
+CyberFlixLMS             30 mins             ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+DARC                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +226,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 02:00:26 UTC
+ Last Updated on 03/05/2026 02:04:56 UTC
 <!--END_SECTION:waka-->
 
 ---

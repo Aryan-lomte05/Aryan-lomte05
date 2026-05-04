@@ -150,7 +150,7 @@ aryan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -191,22 +191,21 @@ Sunday                   452 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Text                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JavaScript               18 mins             █████████░░░░░░░░░░░░░░░░   37.76 % 
+Bash                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+CSS                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 🔥 Editors: 
-Antigravity              1 hr 49 mins        █████████████████████████   100.00 % 
+Antigravity              47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-darc-website             1 hr 2 mins         ██████████████░░░░░░░░░░░   57.53 % 
-CyberFlixLMS             30 mins             ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-DARC                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+CyberFlixLMS             30 mins             ████████████████░░░░░░░░░   62.58 % 
+darc-website             17 mins             █████████░░░░░░░░░░░░░░░░   37.42 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +225,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2026 02:04:56 UTC
+ Last Updated on 04/05/2026 02:05:01 UTC
 <!--END_SECTION:waka-->
 
 ---

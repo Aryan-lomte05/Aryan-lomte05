@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-🌆 Daytime                331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-🌃 Evening                1118 commits        ██████████░░░░░░░░░░░░░░░   41.53 % 
-🌙 Night                  1096 commits        ██████████░░░░░░░░░░░░░░░   40.71 % 
+🌞 Morning                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+🌆 Daytime                331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+🌃 Evening                1121 commits        ██████████░░░░░░░░░░░░░░░   41.60 % 
+🌙 Night                  1096 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Tuesday                  518 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Wednesday                543 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Thursday                 244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Saturday                 472 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Sunday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Monday                   152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Tuesday                  518 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Wednesday                543 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Thursday                 245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Saturday                 474 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Sunday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 ```
 
 
@@ -191,21 +191,17 @@ Sunday                   452 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               18 mins             █████████░░░░░░░░░░░░░░░░   37.76 % 
-Bash                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-CSS                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+JavaScript               17 mins             ██████████████████████░░░   89.86 % 
+Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 
 🔥 Editors: 
-Antigravity              47 mins             █████████████████████████   100.00 % 
+Antigravity              19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CyberFlixLMS             30 mins             ████████████████░░░░░░░░░   62.58 % 
-darc-website             17 mins             █████████░░░░░░░░░░░░░░░░   37.42 % 
+CyberFlixLMS             19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -225,7 +221,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 02:05:01 UTC
+ Last Updated on 05/05/2026 02:05:04 UTC
 <!--END_SECTION:waka-->
 
 ---

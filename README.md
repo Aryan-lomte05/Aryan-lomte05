@@ -150,7 +150,7 @@ aryan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-🌆 Daytime                331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-🌃 Evening                1121 commits        ██████████░░░░░░░░░░░░░░░   41.60 % 
-🌙 Night                  1096 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
+🌞 Morning                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+🌆 Daytime                335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+🌃 Evening                1124 commits        ██████████░░░░░░░░░░░░░░░   41.45 % 
+🌙 Night                  1106 commits        ██████████░░░░░░░░░░░░░░░   40.78 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   152 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Tuesday                  518 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Wednesday                543 commits         █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Thursday                 245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Saturday                 474 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Sunday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Monday                   153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Tuesday                  518 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Wednesday                543 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Thursday                 245 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Saturday                 484 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Sunday                   458 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 ```
 
 
@@ -191,17 +191,16 @@ Sunday                   452 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               17 mins             ██████████████████████░░░   89.86 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+JavaScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity              19 mins             █████████████████████████   100.00 % 
+Antigravity              2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CyberFlixLMS             19 mins             █████████████████████████   100.00 % 
+CyberFlixLMS             2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -221,7 +220,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2026 02:05:04 UTC
+ Last Updated on 06/05/2026 02:05:06 UTC
 <!--END_SECTION:waka-->
 
 ---

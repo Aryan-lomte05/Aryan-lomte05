@@ -148,8 +148,6 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%202%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -164,45 +162,6 @@ aryan = {
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-🌆 Daytime                343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-🌃 Evening                1165 commits        ██████████░░░░░░░░░░░░░░░   41.41 % 
-🌙 Night                  1152 commits        ██████████░░░░░░░░░░░░░░░   40.95 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Tuesday                  550 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Wednesday                561 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Thursday                 271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Saturday                 491 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Sunday                   467 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -220,7 +179,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 02:30:02 UTC
+ Last Updated on 15/05/2026 02:18:12 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -148,6 +148,8 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2029%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -162,6 +164,49 @@ aryan = {
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+🌆 Daytime                343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+🌃 Evening                1168 commits        ██████████░░░░░░░░░░░░░░░   41.48 % 
+🌙 Night                  1152 commits        ██████████░░░░░░░░░░░░░░░   40.91 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Tuesday                  550 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Wednesday                561 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Thursday                 272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Saturday                 493 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Sunday                   467 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 48 mins             █████████████░░░░░░░░░░░░   52.09 % 
+Dart                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Python                   16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+PowerShell               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+
+🔥 Editors: 
+Antigravity              1 hr 33 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Rajniti                  1 hr 33 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -179,7 +224,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 02:36:03 UTC
+ Last Updated on 19/05/2026 02:34:44 UTC
 <!--END_SECTION:waka-->
 
 ---

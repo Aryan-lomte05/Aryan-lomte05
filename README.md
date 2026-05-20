@@ -210,11 +210,11 @@ Windows                  1 hr 33 mins        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ██████████░░░░░░░░░░░░░░░   40.43 % 
-TypeScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   19 repos            ██████████░░░░░░░░░░░░░░░   39.58 % 
+TypeScript               14 repos            ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -224,7 +224,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2026 02:34:44 UTC
+ Last Updated on 20/05/2026 02:35:02 UTC
 <!--END_SECTION:waka-->
 
 ---

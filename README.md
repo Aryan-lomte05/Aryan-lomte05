@@ -148,6 +148,8 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -165,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-🌆 Daytime                343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-🌃 Evening                1168 commits        ██████████░░░░░░░░░░░░░░░   41.36 % 
-🌙 Night                  1160 commits        ██████████░░░░░░░░░░░░░░░   41.08 % 
+🌞 Morning                153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌆 Daytime                343 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+🌃 Evening                1168 commits        ██████████░░░░░░░░░░░░░░░   41.24 % 
+🌙 Night                  1168 commits        ██████████░░░░░░░░░░░░░░░   41.24 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Tuesday                  550 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Wednesday                561 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Thursday                 272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Friday                   319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Saturday                 493 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Sunday                   467 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Monday                   162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Tuesday                  550 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Wednesday                561 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Thursday                 272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Friday                   319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 501 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Sunday                   467 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 ```
 
 
@@ -224,7 +226,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 02:37:48 UTC
+ Last Updated on 23/05/2026 02:14:14 UTC
 <!--END_SECTION:waka-->
 
 ---

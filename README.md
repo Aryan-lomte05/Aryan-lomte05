@@ -148,6 +148,8 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -162,6 +164,53 @@ aryan = {
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+🌆 Daytime                386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+🌃 Evening                1202 commits        ██████████░░░░░░░░░░░░░░░   39.87 % 
+🌙 Night                  1274 commits        ███████████░░░░░░░░░░░░░░   42.26 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   179 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Tuesday                  600 commits         █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Wednesday                611 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Thursday                 280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Friday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Saturday                 509 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Sunday                   496 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   1 hr 1 min          ██████████░░░░░░░░░░░░░░░   38.38 % 
+TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Other                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+SutraKleos               1 hr 1 min          ██████████░░░░░░░░░░░░░░░   38.54 % 
+Nexus_Incidents          47 mins             ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+AutoExpGrader            32 mins             █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+frontend                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Atlas                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+
+💻 Operating System: 
+Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -179,7 +228,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 02:31:41 UTC
+ Last Updated on 30/05/2026 02:16:18 UTC
 <!--END_SECTION:waka-->
 
 ---

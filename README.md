@@ -148,7 +148,7 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -191,24 +191,24 @@ Sunday                   505 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   48 mins             ████████░░░░░░░░░░░░░░░░░   30.55 % 
-Markdown                 34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-TypeScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Python                   59 mins             ███████████░░░░░░░░░░░░░░   44.74 % 
+Markdown                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ios-AntiSpyware-Final    1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   39.99 % 
-SWDC AIML - 2            37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-AutoExpGrader            34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-frontend                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Atlas                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Ios-AntiSpyware-Final    1 hr 2 mins         ████████████░░░░░░░░░░░░░   47.35 % 
+SWDC AIML - 2            37 mins             ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Atlas                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+SutraKleos               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+AutoExpGrader            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -228,7 +228,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2026 02:56:36 UTC
+ Last Updated on 04/06/2026 02:51:45 UTC
 <!--END_SECTION:waka-->
 
 ---

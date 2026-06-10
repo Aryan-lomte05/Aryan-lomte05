@@ -148,7 +148,7 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -167,21 +167,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-🌆 Daytime                493 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-🌃 Evening                1320 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
-🌙 Night                  1435 commits        ███████████░░░░░░░░░░░░░░   42.19 % 
+🌞 Morning                153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+🌆 Daytime                501 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌃 Evening                1328 commits        ██████████░░░░░░░░░░░░░░░   38.58 % 
+🌙 Night                  1460 commits        ███████████░░░░░░░░░░░░░░   42.42 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Tuesday                  678 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Wednesday                661 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Thursday                 326 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Friday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Saturday                 616 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Sunday                   518 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Monday                   210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Tuesday                  697 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Wednesday                669 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Thursday                 332 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Friday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Saturday                 616 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Sunday                   518 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 ```
 
 
@@ -191,22 +191,22 @@ Sunday                   518 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 53 mins        ██████████████░░░░░░░░░░░   54.47 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-TypeScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+JavaScript               1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   39.15 % 
+TypeScript               1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Python                   1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Bash                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CyberFlixLMS             1 hr 45 mins        █████████████░░░░░░░░░░░░   50.72 % 
-Atlas                    1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.84 % 
-SutraKleos               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Atlas                    3 hrs 4 mins        ███████████████░░░░░░░░░░   61.32 % 
+CyberFlixLMS             1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.06 % 
+SutraKleos               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +226,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 02:16:34 UTC
+ Last Updated on 10/06/2026 02:40:34 UTC
 <!--END_SECTION:waka-->
 
 ---

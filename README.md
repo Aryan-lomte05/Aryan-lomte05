@@ -191,21 +191,23 @@ Sunday                   536 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   11 hrs 27 mins      ████████████████░░░░░░░░░   62.84 % 
-Bash                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-JavaScript               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Python                   11 hrs 27 mins      ███████████████░░░░░░░░░░   61.24 % 
+Bash                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JavaScript               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 13 mins      █████████████████████████   100.00 % 
+Antigravity IDE          18 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PrescriptIQ              18 hrs 5 mins       █████████████████████████   99.28 % 
-SWDC AIML - 2            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+PrescriptIQ              18 hrs 5 mins       ████████████████████████░   96.76 % 
+LawBench                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+CyberFlixLMS             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+SWDC AIML - 2            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Windows                  18 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -225,7 +227,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2026 02:56:23 UTC
+ Last Updated on 23/06/2026 02:31:53 UTC
 <!--END_SECTION:waka-->
 
 ---

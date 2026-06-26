@@ -150,7 +150,7 @@ aryan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -168,20 +168,20 @@ aryan = {
 
 ```text
 🌞 Morning                180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-🌆 Daytime                683 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-🌃 Evening                1398 commits        █████████░░░░░░░░░░░░░░░░   37.05 % 
-🌙 Night                  1512 commits        ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌆 Daytime                683 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+🌃 Evening                1401 commits        █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌙 Night                  1512 commits        ██████████░░░░░░░░░░░░░░░   40.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Tuesday                  712 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Wednesday                701 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Thursday                 351 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Friday                   597 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Saturday                 657 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Sunday                   536 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Tuesday                  712 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Wednesday                701 commits         █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Thursday                 352 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Friday                   597 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Saturday                 659 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Sunday                   536 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 
 
@@ -191,22 +191,22 @@ Sunday                   536 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   11 hrs 19 mins      ███████████████░░░░░░░░░░   61.02 % 
-Bash                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-JavaScript               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Python                   10 hrs 20 mins      ███████████████░░░░░░░░░░   61.21 % 
+Bash                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+JavaScript               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 🔥 Editors: 
-Antigravity IDE          18 hrs 33 mins      █████████████████████████   100.00 % 
+Antigravity IDE          16 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PrescriptIQ              18 hrs 4 mins       ████████████████████████░   97.44 % 
-LawBench                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-CyberFlixLMS             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+PrescriptIQ              16 hrs 24 mins      ████████████████████████░   97.19 % 
+LawBench                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+CyberFlixLMS             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Windows                  18 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +226,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 02:34:55 UTC
+ Last Updated on 26/06/2026 02:36:05 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -148,7 +148,7 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -156,7 +156,7 @@ aryan = {
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,199 Contributions in the Year 2026
+> 🏆 1,200 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -170,18 +170,18 @@ aryan = {
 🌞 Morning                180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 🌆 Daytime                851 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 🌃 Evening                2280 commits        ███████████░░░░░░░░░░░░░░   43.75 % 
-🌙 Night                  1900 commits        █████████░░░░░░░░░░░░░░░░   36.46 % 
+🌙 Night                  1901 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 Tuesday                  799 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 Thursday                 355 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Friday                   715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Friday                   716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 Saturday                 1480 commits        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Sunday                   671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Sunday                   671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 
 
@@ -191,22 +191,22 @@ Sunday                   671 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-Markdown                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Python                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-YAML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Other                    1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+Markdown                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Python                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+YAML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 29 mins       █████████████████████████   100.00 % 
+Antigravity IDE          6 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Hades                    3 hrs 49 mins       ███████████████░░░░░░░░░░   58.84 % 
-Atlas                    2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.15 % 
-LawBench                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Hades                    3 hrs 49 mins       ██████████████░░░░░░░░░░░   56.81 % 
+Atlas                    2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+Operative-main           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 Operating System: 
-Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +226,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 02:08:04 UTC
+ Last Updated on 10/07/2026 02:07:24 UTC
 <!--END_SECTION:waka-->
 
 ---

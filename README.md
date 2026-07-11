@@ -148,7 +148,7 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -168,19 +168,19 @@ aryan = {
 
 ```text
 🌞 Morning                180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-🌆 Daytime                851 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-🌃 Evening                2280 commits        ███████████░░░░░░░░░░░░░░   43.75 % 
-🌙 Night                  1901 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
+🌆 Daytime                852 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+🌃 Evening                2280 commits        ███████████░░░░░░░░░░░░░░   43.73 % 
+🌙 Night                  1902 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   432 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Tuesday                  799 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Tuesday                  799 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Wednesday                760 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Thursday                 355 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Friday                   716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Saturday                 1480 commits        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Friday                   717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Saturday                 1480 commits        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
 Sunday                   671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 
@@ -191,22 +191,23 @@ Sunday                   671 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Markdown                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Python                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-YAML                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Other                    1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.65 % 
+Python                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+JSON                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+YAML                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 43 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Hades                    3 hrs 49 mins       ██████████████░░░░░░░░░░░   56.81 % 
-Atlas                    2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
-Operative-main           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Hades                    3 hrs 23 mins       ███████████████░░░░░░░░░░   61.04 % 
+Atlas                    1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   34.02 % 
+Operative-main           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  6 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +227,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 02:07:24 UTC
+ Last Updated on 11/07/2026 01:54:39 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -191,23 +191,23 @@ Sunday                   671 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    54 mins             █████████████░░░░░░░░░░░░   50.07 % 
-TypeScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Other                    26 mins             ███████████░░░░░░░░░░░░░░   45.03 % 
+Markdown                 15 mins             ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+TypeScript               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 48 mins        █████████████████████████   100.00 % 
+Antigravity IDE          59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Atlas                    55 mins             █████████████░░░░░░░░░░░░   51.19 % 
-Hades                    36 mins             ████████░░░░░░░░░░░░░░░░░   33.55 % 
-Operative-main           15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Atlas                    36 mins             ███████████████░░░░░░░░░░   60.39 % 
+Operative-main           15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Hades                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -227,7 +227,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2026 01:47:24 UTC
+ Last Updated on 15/07/2026 01:32:44 UTC
 <!--END_SECTION:waka-->
 
 ---

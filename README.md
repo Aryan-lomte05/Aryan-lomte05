@@ -191,22 +191,21 @@ Sunday                   671 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    50 mins             ██████████░░░░░░░░░░░░░░░   41.21 % 
-Markdown                 36 mins             ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-Python                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Other                    50 mins             ████████████░░░░░░░░░░░░░   49.32 % 
+Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Python                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+YAML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 2 mins        █████████████████████████   100.00 % 
+Antigravity IDE          1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Atlas                    1 hr 5 mins         █████████████░░░░░░░░░░░░   53.13 % 
-Hades                    56 mins             ███████████░░░░░░░░░░░░░░   45.96 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Hades                    52 mins             █████████████░░░░░░░░░░░░   50.68 % 
+Atlas                    50 mins             ████████████░░░░░░░░░░░░░   49.32 % 
 
 💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -226,7 +225,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 01:47:05 UTC
+ Last Updated on 19/07/2026 01:53:35 UTC
 <!--END_SECTION:waka-->
 
 ---

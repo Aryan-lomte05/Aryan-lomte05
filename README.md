@@ -148,8 +148,6 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2032%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -191,23 +189,22 @@ Sunday                   671 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   38.86 % 
-Other                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+JavaScript               1 hr 33 mins        ███████████████░░░░░░░░░░   61.44 % 
+Bash                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Gosu                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs               █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CyberFlixLMS             2 hrs 17 mins       ██████████████░░░░░░░░░░░   57.04 % 
-Hades                    52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Atlas                    50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+CyberFlixLMS             2 hrs 17 mins       ███████████████████████░░   90.18 % 
+Hades                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  4 hrs               █████████████████████████   100.00 % 
+Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -227,7 +224,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 02:01:34 UTC
+ Last Updated on 24/07/2026 01:57:10 UTC
 <!--END_SECTION:waka-->
 
 ---

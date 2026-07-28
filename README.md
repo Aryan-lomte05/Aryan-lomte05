@@ -148,9 +148,11 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2022%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -209,6 +211,29 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 39 mins (95.19%)
+
+✍️ 172 lines written by AI, 3 lines written by hand (98.29% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 37 AI Prompts
+
+Opus                     132 lines           █████████████░░░░░░░░░░░░   50.19 % 
+Gemini                   131 lines           ████████████░░░░░░░░░░░░░   49.81 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.29% of written lines came from AI
+📄 Detailed Prompter — average 502 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 1.13% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -226,7 +251,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:07:55 UTC
+ Last Updated on 28/07/2026 01:50:16 UTC
 <!--END_SECTION:waka-->
 
 ---

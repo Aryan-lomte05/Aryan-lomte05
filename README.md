@@ -148,10 +148,6 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2012%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2022%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -170,20 +166,20 @@ aryan = {
 
 ```text
 🌞 Morning                180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-🌆 Daytime                865 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-🌃 Evening                2339 commits        ███████████░░░░░░░░░░░░░░   44.24 % 
-🌙 Night                  1903 commits        █████████░░░░░░░░░░░░░░░░   35.99 % 
+🌆 Daytime                865 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+🌃 Evening                2342 commits        ███████████░░░░░░░░░░░░░░   44.27 % 
+🌙 Night                  1903 commits        █████████░░░░░░░░░░░░░░░░   35.97 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   448 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Tuesday                  803 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                771 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 370 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Tuesday                  803 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Wednesday                771 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Thursday                 371 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 Friday                   724 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Saturday                 1500 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-Sunday                   671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Saturday                 1502 commits        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+Sunday                   671 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 ```
 
 
@@ -251,7 +247,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:50:16 UTC
+ Last Updated on 29/07/2026 01:52:44 UTC
 <!--END_SECTION:waka-->
 
 ---

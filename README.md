@@ -152,7 +152,7 @@ aryan = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -193,38 +193,22 @@ Sunday                   671 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity IDE          15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CyberFlixLMS             15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (100.0%)
-
-✍️ 7 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-Gemini                   13 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 131 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -244,7 +228,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 02:01:59 UTC
+ Last Updated on 01/08/2026 02:03:09 UTC
 <!--END_SECTION:waka-->
 
 ---

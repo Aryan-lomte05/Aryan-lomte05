@@ -170,20 +170,20 @@ aryan = {
 
 ```text
 🌞 Morning                180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-🌆 Daytime                865 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-🌃 Evening                2356 commits        ███████████░░░░░░░░░░░░░░   44.40 % 
-🌙 Night                  1905 commits        █████████░░░░░░░░░░░░░░░░   35.90 % 
+🌆 Daytime                865 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+🌃 Evening                2362 commits        ███████████░░░░░░░░░░░░░░   44.47 % 
+🌙 Night                  1905 commits        █████████░░░░░░░░░░░░░░░░   35.86 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Tuesday                  803 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Wednesday                771 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Thursday                 375 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Friday                   724 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Saturday                 1510 commits        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Sunday                   673 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Monday                   450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Tuesday                  803 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Wednesday                771 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Thursday                 377 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Friday                   724 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Saturday                 1514 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+Sunday                   673 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
 ```
 
 
@@ -193,32 +193,50 @@ Sunday                   673 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 6 mins         ███████████████████████░░   90.94 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CyberFlixLMS             1 hr 12 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 11 mins (98.81%)
+
+✍️ 224 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 10 AI Prompts
+
+Gemini                   224 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 52 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ███████████░░░░░░░░░░░░░░   42.11 % 
-TypeScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Python                   24 repos            ██████████░░░░░░░░░░░░░░░   41.38 % 
+TypeScript               17 repos            ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+JavaScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
@@ -228,7 +246,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 02:01:48 UTC
+ Last Updated on 04/08/2026 01:48:05 UTC
 <!--END_SECTION:waka-->
 
 ---

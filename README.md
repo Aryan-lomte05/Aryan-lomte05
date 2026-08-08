@@ -148,13 +148,17 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2014%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,256 Contributions in the Year 2026
+> 🏆 1,257 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -162,14 +166,84 @@ aryan = {
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+🌆 Daytime                865 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+🌃 Evening                2443 commits        ███████████░░░░░░░░░░░░░░   45.00 % 
+🌙 Night                  1941 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   452 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Tuesday                  865 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Wednesday                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Thursday                 415 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Friday                   738 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Saturday                 1509 commits        ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+Sunday                   673 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Markdown                 2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+TypeScript               1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Bash                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+
+🔥 Editors: 
+Antigravity IDE          9 hrs 16 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Hermes                   3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
+CyberFlixLMS             2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+SentryNet                1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+CVE-Engine-V2            34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Hades                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+
+💻 Operating System: 
+Windows                  9 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 50 mins (95.27%)
+
+✍️ 2,663 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 201 AI Prompts
+
+Gemini                   1,734 lines         ███████████████░░░░░░░░░░   60.71 % 
+Sonnet                   1,122 lines         ██████████░░░░░░░░░░░░░░░   39.29 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 458 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               19 repos            ████████░░░░░░░░░░░░░░░░░   31.67 % 
-JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   24 repos            ██████████░░░░░░░░░░░░░░░   39.34 % 
+TypeScript               20 repos            ████████░░░░░░░░░░░░░░░░░   32.79 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 
 
@@ -179,7 +253,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:15:12 UTC
+ Last Updated on 08/08/2026 01:02:19 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -169,21 +169,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-🌆 Daytime                865 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-🌃 Evening                2507 commits        ███████████░░░░░░░░░░░░░░   45.07 % 
-🌙 Night                  2011 commits        █████████░░░░░░░░░░░░░░░░   36.15 % 
+🌞 Morning                180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+🌆 Daytime                865 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+🌃 Evening                2516 commits        ███████████░░░░░░░░░░░░░░   45.15 % 
+🌙 Night                  2011 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   452 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Tuesday                  865 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                777 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Thursday                 462 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Friday                   792 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Saturday                 1534 commits        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-Sunday                   681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Monday                   452 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Tuesday                  865 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Wednesday                777 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Thursday                 465 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Friday                   792 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Saturday                 1540 commits        ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+Sunday                   681 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 ```
 
 
@@ -193,47 +193,47 @@ Sunday                   681 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
-Markdown                 2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-JavaScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Other                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+TypeScript               3 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
+Markdown                 2 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Bash                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 7 mins       █████████████████████████   100.00 % 
+Antigravity IDE          8 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Hermes                   3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
-SentryNet                3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
-CyberFlixLMS             1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-CVE-Engine-V2            34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Hades                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Hermes                   3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.28 % 
+SentryNet                3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.70 % 
+CVE-Engine-V2            34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Hades                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Atlas                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 30 mins (93.98%)
+⏱ AI Coding Time: 8 hrs 8 mins (93.04%)
 
-✍️ 2,770 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 1,801 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 234 AI Prompts
+🧠 14 AI Sessions, 194 AI Prompts
 
-Gemini                   1,936 lines         ████████████████░░░░░░░░░   63.31 % 
-Sonnet                   1,122 lines         █████████░░░░░░░░░░░░░░░░   36.69 % 
+Gemini                   1,247 lines         ████████████████░░░░░░░░░   65.08 % 
+Sonnet                   669 lines           █████████░░░░░░░░░░░░░░░░   34.92 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 521 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📄 Detailed Prompter — average 543 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -253,7 +253,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 01:08:04 UTC
+ Last Updated on 12/08/2026 01:14:07 UTC
 <!--END_SECTION:waka-->
 
 ---

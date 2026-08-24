@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-54%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
@@ -193,46 +193,46 @@ Sunday                   718 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Markdown                 1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Bash                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Other                    54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Python                   2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.31 % 
+Markdown                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+Bash                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 54 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-floatchatai-main         6 hrs 5 mins        ██████████████████████░░░   88.20 % 
-CyberFlixLMS             38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-ecesa-site               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+floatchatai-main         5 hrs               ██████████████████████░░░   86.02 % 
+CyberFlixLMS             38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+ecesa-site               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-Windows                  6 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 4 mins (87.93%)
+⏱ AI Coding Time: 5 hrs 6 mins (87.67%)
 
-✍️ 818 lines written by AI, 1 lines written by hand (99.88% AI-written)
+✍️ 740 lines written by AI, 1 lines written by hand (99.87% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 132 AI Prompts
+🧠 9 AI Sessions, 98 AI Prompts
 
-Gemini                   690 lines           ████████████████████░░░░░   79.40 % 
-Sonnet                   96 lines            ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Opus                     83 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Gemini                   612 lines           ███████████████████░░░░░░   77.37 % 
+Sonnet                   96 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Opus                     83 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📄 Detailed Prompter — average 515 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 630 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -252,7 +252,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 00:50:54 UTC
+ Last Updated on 24/08/2026 00:49:56 UTC
 <!--END_SECTION:waka-->
 
 ---

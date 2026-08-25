@@ -171,19 +171,19 @@ aryan = {
 ```text
 🌞 Morning                186 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 🌆 Daytime                902 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌃 Evening                3017 commits        ████████████░░░░░░░░░░░░░   47.81 % 
-🌙 Night                  2206 commits        █████████░░░░░░░░░░░░░░░░   34.95 % 
+🌃 Evening                3020 commits        ████████████░░░░░░░░░░░░░   47.83 % 
+🌙 Night                  2206 commits        █████████░░░░░░░░░░░░░░░░   34.94 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   470 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Tuesday                  879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Wednesday                845 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Thursday                 498 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Friday                   1220 commits        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Saturday                 1681 commits        ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-Sunday                   718 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Monday                   470 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Tuesday                  879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Wednesday                845 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Thursday                 499 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Friday                   1220 commits        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Saturday                 1683 commits        ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+Sunday                   718 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 ```
 
 
@@ -193,28 +193,28 @@ Sunday                   718 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.31 % 
-Markdown                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Bash                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Python                   2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.95 % 
+Markdown                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+Bash                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 49 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-floatchatai-main         5 hrs               ██████████████████████░░░   86.02 % 
-CyberFlixLMS             38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-ecesa-site               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+floatchatai-main         4 hrs 45 mins       █████████████████████░░░░   85.38 % 
+CyberFlixLMS             38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+ecesa-site               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 Operating System: 
-Windows                  5 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 6 mins (87.67%)
+⏱ AI Coding Time: 4 hrs 51 mins (87.11%)
 
 ✍️ 740 lines written by AI, 1 lines written by hand (99.87% AI-written)
 
@@ -222,7 +222,7 @@ Windows                  5 hrs 49 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 98 AI Prompts
+🧠 8 AI Sessions, 86 AI Prompts
 
 Gemini                   612 lines           ███████████████████░░░░░░   77.37 % 
 Sonnet                   96 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
@@ -230,7 +230,7 @@ Opus                     83 lines            ███░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.87% of written lines came from AI
-📄 Detailed Prompter — average 630 characters per prompt
+📄 Detailed Prompter — average 506 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
@@ -252,7 +252,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 00:49:56 UTC
+ Last Updated on 25/08/2026 00:50:01 UTC
 <!--END_SECTION:waka-->
 
 ---

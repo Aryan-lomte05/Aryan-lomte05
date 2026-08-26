@@ -193,46 +193,46 @@ Sunday                   718 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.95 % 
-Markdown                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Bash                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Python                   2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.71 % 
+Markdown                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-Antigravity IDE          5 hrs 34 mins       █████████████████████████   100.00 % 
+Antigravity IDE          5 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-floatchatai-main         4 hrs 45 mins       █████████████████████░░░░   85.38 % 
-CyberFlixLMS             38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-ecesa-site               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+floatchatai-main         4 hrs 45 mins       ███████████████████████░░   91.58 % 
+CyberFlixLMS             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+ecesa-site               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-Windows                  5 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 51 mins (87.11%)
+⏱ AI Coding Time: 4 hrs 28 mins (86.17%)
 
-✍️ 740 lines written by AI, 1 lines written by hand (99.87% AI-written)
+✍️ 724 lines written by AI, 1 lines written by hand (99.86% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 86 AI Prompts
+🧠 6 AI Sessions, 80 AI Prompts
 
-Gemini                   612 lines           ███████████████████░░░░░░   77.37 % 
-Sonnet                   96 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Opus                     83 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Gemini                   596 lines           ███████████████████░░░░░░   76.90 % 
+Sonnet                   96 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Opus                     83 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📄 Detailed Prompter — average 506 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🤖 AI-Driven — 99.86% of written lines came from AI
+📄 Detailed Prompter — average 525 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -252,7 +252,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 00:50:01 UTC
+ Last Updated on 26/08/2026 00:49:55 UTC
 <!--END_SECTION:waka-->
 
 ---

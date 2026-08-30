@@ -158,32 +158,32 @@ aryan = {
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 1,461 Contributions in the Year 2026
+> 🏆 1,469 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 29 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                188 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-🌆 Daytime                956 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-🌃 Evening                3209 commits        ████████████░░░░░░░░░░░░░   48.36 % 
-🌙 Night                  2282 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌞 Morning                188 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+🌆 Daytime                1026 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+🌃 Evening                3215 commits        ████████████░░░░░░░░░░░░░   47.91 % 
+🌙 Night                  2282 commits        ████████░░░░░░░░░░░░░░░░░   34.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   476 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Tuesday                  879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Wednesday                875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Thursday                 571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Friday                   1372 commits        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-Saturday                 1736 commits        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Sunday                   726 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Monday                   476 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Tuesday                  879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Wednesday                875 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Thursday                 573 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Friday                   1372 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+Saturday                 1810 commits        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Sunday                   726 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 ```
 
 
@@ -193,57 +193,58 @@ Sunday                   726 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 1 min         ██████████████░░░░░░░░░░░   54.47 % 
-Markdown                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Bash                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Git Config               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Python                   6 hrs 10 mins       ██████████████░░░░░░░░░░░   56.31 % 
+Markdown                 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Git Config               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 1 min        █████████████████████████   99.61 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Antigravity IDE          10 hrs 44 mins      █████████████████████████   98.09 % 
+Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-floatchatai-main         10 hrs 55 mins      █████████████████████████   98.76 % 
+floatchatai-main         7 hrs 27 mins       █████████████████░░░░░░░░   68.04 % 
+CVE-Engine-V2            2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Aanchal                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 zerowatch-cve-matching   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-CVE-Engine-V2            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  11 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 56 mins (89.85%)
+⏱ AI Coding Time: 10 hrs 2 mins (91.57%)
 
-✍️ 1,608 lines written by AI, 16 lines written by hand (99.01% AI-written)
+✍️ 1,893 lines written by AI, 15 lines written by hand (99.21% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 150 AI Prompts
+🧠 9 AI Sessions, 170 AI Prompts
 
-Gemini                   1,292 lines         ██████████████████░░░░░░░   72.18 % 
-Sonnet                   403 lines           ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Opus                     95 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Gemini                   1,725 lines         █████████████████████░░░░   84.39 % 
+Sonnet                   307 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Opus                     12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.01% of written lines came from AI
-📄 Detailed Prompter — average 545 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 1.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.21% of written lines came from AI
+📄 Detailed Prompter — average 507 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 0.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            ██████████░░░░░░░░░░░░░░░   38.71 % 
-TypeScript               20 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
-JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   25 repos            ██████████░░░░░░░░░░░░░░░   39.68 % 
+TypeScript               20 repos            ████████░░░░░░░░░░░░░░░░░   31.75 % 
+JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 
@@ -253,7 +254,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 04:58:07 UTC
+ Last Updated on 30/08/2026 02:41:05 UTC
 <!--END_SECTION:waka-->
 
 ---

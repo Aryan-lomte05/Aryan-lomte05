@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
@@ -193,19 +193,19 @@ Sunday                   726 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 10 mins       ██████████████░░░░░░░░░░░   56.31 % 
-Markdown                 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Python                   6 hrs 10 mins       ██████████████░░░░░░░░░░░   56.27 % 
+Markdown                 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Bash                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 Git Config               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 TypeScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 44 mins      █████████████████████████   98.09 % 
+Antigravity IDE          10 hrs 45 mins      █████████████████████████   98.09 % 
 Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-floatchatai-main         7 hrs 27 mins       █████████████████░░░░░░░░   68.04 % 
-CVE-Engine-V2            2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+floatchatai-main         7 hrs 27 mins       █████████████████░░░░░░░░   68.06 % 
+CVE-Engine-V2            2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
 Aanchal                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 zerowatch-cve-matching   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
@@ -216,7 +216,7 @@ Windows                  10 hrs 57 mins      ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 2 mins (91.57%)
+⏱ AI Coding Time: 10 hrs 2 mins (91.52%)
 
 ✍️ 1,893 lines written by AI, 15 lines written by hand (99.21% AI-written)
 
@@ -224,7 +224,7 @@ Windows                  10 hrs 57 mins      ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 170 AI Prompts
+🧠 8 AI Sessions, 170 AI Prompts
 
 Gemini                   1,725 lines         █████████████████████░░░░   84.39 % 
 Sonnet                   307 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
@@ -233,7 +233,7 @@ Opus                     12 lines            ░░░░░░░░░░░�
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.21% of written lines came from AI
 📄 Detailed Prompter — average 507 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
+🔁 Iterative Prompter — average 21 prompts per session
 🚀 High AI Trust — 0.78% of changed lines were hand-edited
 ```
 
@@ -254,7 +254,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 02:41:05 UTC
+ Last Updated on 31/08/2026 02:36:30 UTC
 <!--END_SECTION:waka-->
 
 ---

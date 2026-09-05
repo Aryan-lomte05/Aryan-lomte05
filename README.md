@@ -148,11 +148,11 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -170,20 +170,20 @@ aryan = {
 
 ```text
 🌞 Morning                188 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-🌆 Daytime                1121 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-🌃 Evening                3332 commits        ████████████░░░░░░░░░░░░░   48.06 % 
-🌙 Night                  2292 commits        ████████░░░░░░░░░░░░░░░░░   33.06 % 
+🌆 Daytime                1121 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+🌃 Evening                3333 commits        ████████████░░░░░░░░░░░░░   48.02 % 
+🌙 Night                  2299 commits        ████████░░░░░░░░░░░░░░░░░   33.12 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Tuesday                  943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Wednesday                888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Thursday                 604 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Friday                   1377 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Saturday                 1909 commits        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-Sunday                   726 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Monday                   486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Tuesday                  943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Wednesday                888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Thursday                 604 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Friday                   1384 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Saturday                 1910 commits        ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+Sunday                   726 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
 ```
 
 
@@ -193,30 +193,30 @@ Sunday                   726 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 49 mins        ████████████░░░░░░░░░░░░░   49.51 % 
-Markdown                 1 hr                ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-INI                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Python                   1 hr 50 mins        ████████████░░░░░░░░░░░░░   49.77 % 
+Markdown                 1 hr                ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+INI                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 30 mins       ████████████████████████░   95.50 % 
-Antigravity Desktop      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Antigravity IDE          3 hrs 32 mins       ████████████████████████░   95.53 % 
+Antigravity Desktop      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🐱‍💻 Projects: 
-CVE-Engine-V2            2 hrs 39 mins       ██████████████████░░░░░░░   72.11 % 
-Aanchal                  42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-floatchatai-main         17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-RAKSHAKOSH_LOCAL         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+CVE-Engine-V2            2 hrs 39 mins       ██████████████████░░░░░░░   71.72 % 
+Aanchal                  42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+floatchatai-main         17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+RAKSHAKOSH_LOCAL         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 21 mins (91.44%)
+⏱ AI Coding Time: 3 hrs 21 mins (90.94%)
 
 ✍️ 943 lines written by AI, 1 lines written by hand (99.89% AI-written)
 
@@ -252,7 +252,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2026 02:13:58 UTC
+ Last Updated on 05/09/2026 02:12:24 UTC
 <!--END_SECTION:waka-->
 
 ---

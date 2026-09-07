@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -193,47 +193,46 @@ Sunday                   727 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   47 mins             ███████████░░░░░░░░░░░░░░   43.14 % 
-Markdown                 31 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Python                   3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.41 % 
+JavaScript               3 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.36 % 
+Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Antigravity IDE          1 hr 50 mins        █████████████████████████   100.00 % 
+Antigravity IDE          4 hrs 26 mins       █████████████░░░░░░░░░░░░   51.72 % 
+Claude Code              4 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.28 % 
 
 🐱‍💻 Projects: 
-Ethasha - JPMC           1 hr 37 mins        ██████████████████████░░░   88.37 % 
-AryanL                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-RAKSHAKOSH_LOCAL         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-floatchatai-main         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Ethasha - JPMC           8 hrs 32 mins       █████████████████████████   99.42 % 
+RAKSHAKOSH_LOCAL         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (78.1%)
+⏱ AI Coding Time: 8 hrs 20 mins (97.18%)
 
-✍️ 262 lines written by AI, 57 lines written by hand (82.13% AI-written)
+✍️ 5,172 lines written by AI, 60 lines written by hand (98.85% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 2,602,662 Input Tokens, 374,550 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $70.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 20 AI Prompts
+🧠 3 AI Sessions, 78 AI Prompts
 
-Gemini                   225 lines           ███████████████████░░░░░░   75.76 % 
-Sonnet                   60 lines            █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Opus                     12 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Sonnet                   4,492 lines         ████████████████████░░░░░   81.10 % 
+Gemini                   1,035 lines         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Opus                     12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.13% of written lines came from AI
-📝 Concise Prompter — average 316 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🚀 High AI Trust — 16.34% of changed lines were hand-edited
+🤖 AI-Driven — 98.85% of written lines came from AI
+📝 Concise Prompter — average 356 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
+🚀 High AI Trust — 1.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -253,7 +252,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 02:09:18 UTC
+ Last Updated on 07/09/2026 02:05:18 UTC
 <!--END_SECTION:waka-->
 
 ---

@@ -148,7 +148,7 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%203%20mins-blue?style=flat)
 
@@ -158,32 +158,32 @@ aryan = {
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,473 Contributions in the Year 2026
+> 🏆 1,493 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 13 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                189 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-🌆 Daytime                1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-🌃 Evening                3344 commits        ████████████░░░░░░░░░░░░░   47.83 % 
-🌙 Night                  2299 commits        ████████░░░░░░░░░░░░░░░░░   32.89 % 
+🌞 Morning                189 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌆 Daytime                1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+🌃 Evening                3366 commits        ████████████░░░░░░░░░░░░░   47.89 % 
+🌙 Night                  2314 commits        ████████░░░░░░░░░░░░░░░░░   32.93 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Tuesday                  945 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Wednesday                888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Thursday                 607 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Friday                   1384 commits        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Saturday                 1954 commits        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-Sunday                   727 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Monday                   486 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Tuesday                  945 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Wednesday                907 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 623 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Friday                   1384 commits        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+Saturday                 1956 commits        ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+Sunday                   727 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 ```
 
 
@@ -193,56 +193,58 @@ Sunday                   727 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   41.89 % 
-JavaScript               3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
-Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python                   4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.88 % 
+JavaScript               3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.72 % 
+Markdown                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-Antigravity IDE          4 hrs 32 mins       █████████████░░░░░░░░░░░░   52.30 % 
-Claude Code              4 hrs 8 mins        ████████████░░░░░░░░░░░░░   47.70 % 
+Antigravity IDE          5 hrs 32 mins       █████████████░░░░░░░░░░░░   51.19 % 
+Claude Code              5 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.81 % 
 
 🐱‍💻 Projects: 
-Ethasha - JPMC           8 hrs 38 mins       █████████████████████████   99.43 % 
-RAKSHAKOSH_LOCAL         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Ethasha - JPMC           8 hrs 45 mins       ████████████████████░░░░░   80.92 % 
+26117                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+CyberFlixLMS             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+RAKSHAKOSH_LOCAL         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  8 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 20 mins (96.01%)
+⏱ AI Coding Time: 10 hrs 18 mins (95.3%)
 
-✍️ 5,172 lines written by AI, 60 lines written by hand (98.85% AI-written)
+✍️ 10,040 lines written by AI, 143 lines written by hand (98.6% AI-written)
 
-🔤 2,602,662 Input Tokens, 374,550 Output Tokens
+🔤 2,931,671 Input Tokens, 555,331 Output Tokens
 
-💵 $70.00 Estimated AI Cost This Week
+💵 $83.64 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 78 AI Prompts
+🧠 5 AI Sessions, 99 AI Prompts
 
-Sonnet                   4,492 lines         ████████████████████░░░░░   81.10 % 
-Gemini                   1,035 lines         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Opus                     12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Sonnet                   9,242 lines         ██████████████████████░░░   88.28 % 
+Gemini                   1,215 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Opus                     12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.85% of written lines came from AI
-📝 Concise Prompter — average 356 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🚀 High AI Trust — 1.09% of changed lines were hand-edited
+🤖 AI-Driven — 98.6% of written lines came from AI
+📝 Concise Prompter — average 374 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 1.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   26 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               21 repos            ████████░░░░░░░░░░░░░░░░░   32.31 % 
-JavaScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Python                   27 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
+TypeScript               21 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
+JavaScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -252,7 +254,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 02:21:47 UTC
+ Last Updated on 10/09/2026 02:19:47 UTC
 <!--END_SECTION:waka-->
 
 ---

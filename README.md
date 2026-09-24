@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -193,50 +193,50 @@ Sunday                   1152 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-TypeScript               7 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-JavaScript               4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Markdown                 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Other                    1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Python                   7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+TypeScript               6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+JavaScript               4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Markdown                 2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 54 mins      ██████████████████░░░░░░░   71.42 % 
-Antigravity IDE          7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+Claude Code              20 hrs 19 mins      ██████████████████░░░░░░░   72.27 % 
+Antigravity IDE          7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
 
 🐱‍💻 Projects: 
-Somaiya-Awards           8 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-catfish-app              5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Mediroute                3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-26117                    3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-CatFish                  2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Somaiya-Awards           8 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+catfish-app              4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+CatFish                  3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Mediroute                3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+26117                    2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 
 💻 Operating System: 
-Windows                  27 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 27 mins (98.54%)
+⏱ AI Coding Time: 27 hrs 44 mins (98.64%)
 
-✍️ 40,089 lines written by AI, 77 lines written by hand (99.81% AI-written)
+✍️ 43,202 lines written by AI, 76 lines written by hand (99.82% AI-written)
 
-🔤 14,877,618 Input Tokens, 2,279,183 Output Tokens
+🔤 14,842,951 Input Tokens, 2,287,589 Output Tokens
 
-💵 $636.88 Estimated AI Cost This Week
+💵 $665.65 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 374 AI Prompts
+🧠 21 AI Sessions, 400 AI Prompts
 
-Opus                     27,487 lines        ████████████████░░░░░░░░░   64.98 % 
-Sonnet                   13,697 lines        ████████░░░░░░░░░░░░░░░░░   32.38 % 
-Gemini                   1,116 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Opus                     31,478 lines        █████████████████░░░░░░░░   69.49 % 
+Sonnet                   12,707 lines        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+Gemini                   1,116 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.81% of written lines came from AI
-📄 Detailed Prompter — average 1,197 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.32% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📄 Detailed Prompter — average 1,030 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -256,7 +256,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 02:38:17 UTC
+ Last Updated on 24/09/2026 02:27:57 UTC
 <!--END_SECTION:waka-->
 
 ---

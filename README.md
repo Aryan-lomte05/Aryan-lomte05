@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -158,7 +158,7 @@ aryan = {
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2,105 Contributions in the Year 2026
+> 🏆 2,128 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -169,21 +169,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                403 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-🌆 Daytime                3920 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-🌃 Evening                10412 commits       ████████████░░░░░░░░░░░░░   46.66 % 
-🌙 Night                  7578 commits        ████████░░░░░░░░░░░░░░░░░   33.96 % 
+🌞 Morning                481 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+🌆 Daytime                4900 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+🌃 Evening                12720 commits       ████████████░░░░░░░░░░░░░   46.13 % 
+🌙 Night                  9475 commits        █████████░░░░░░░░░░░░░░░░   34.36 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1226 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Tuesday                  3541 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                2621 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Thursday                 2780 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Friday                   3583 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Saturday                 5536 commits        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Sunday                   3026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Monday                   1637 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Tuesday                  4582 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Wednesday                3414 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Thursday                 3373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Friday                   4167 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Saturday                 6477 commits        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Sunday                   3926 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 
 
@@ -193,60 +193,60 @@ Sunday                   3026 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   15 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   36.43 % 
-JavaScript               11 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-TypeScript               3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Markdown                 3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Other                    2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Python                   14 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   35.89 % 
+JavaScript               10 hrs 46 mins      ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Markdown                 3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Other                    2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+TypeScript               2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 🔥 Editors: 
-Claude Code              38 hrs 29 mins      ██████████████████████░░░   89.03 % 
-Antigravity IDE          4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Claude Code              38 hrs 6 mins       ███████████████████████░░   91.72 % 
+Antigravity IDE          3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🐱‍💻 Projects: 
-CyberFlixLMS             13 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   31.07 % 
-26117                    11 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-CatFish                  6 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-catfish-app              3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-floatchatai-main         2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+26117                    14 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   34.99 % 
+CyberFlixLMS             13 hrs 58 mins      ████████░░░░░░░░░░░░░░░░░   33.63 % 
+CatFish                  6 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+CVE-Engine-V2            1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+catfish-app              1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-Windows                  43 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 hrs 23 mins (98.06%)
+⏱ AI Coding Time: 40 hrs 50 mins (98.28%)
 
-✍️ 70,549 lines written by AI, 961 lines written by hand (98.66% AI-written)
+✍️ 62,829 lines written by AI, 885 lines written by hand (98.61% AI-written)
 
-🔤 32,447,629 Input Tokens, 4,340,931 Output Tokens
+🔤 34,175,236 Input Tokens, 4,089,151 Output Tokens
 
-💵 $1310.43 Estimated AI Cost This Week
+💵 $1253.74 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 448 AI Prompts
+🧠 29 AI Sessions, 381 AI Prompts
 
-Opus                     58,646 lines        ████████████████████░░░░░   80.67 % 
-Gemini                   10,032 lines        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Sonnet                   4,020 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Opus                     50,633 lines        ████████████████████░░░░░   78.56 % 
+Gemini                   9,798 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Sonnet                   4,020 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.66% of written lines came from AI
-📄 Detailed Prompter — average 806 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 1.32% of changed lines were hand-edited
+🤖 AI-Driven — 98.61% of written lines came from AI
+📄 Detailed Prompter — average 917 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   28 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
-TypeScript               22 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
-JavaScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   28 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               22 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
+JavaScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -256,7 +256,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 02:51:18 UTC
+ Last Updated on 29/09/2026 03:34:41 UTC
 <!--END_SECTION:waka-->
 
 ---

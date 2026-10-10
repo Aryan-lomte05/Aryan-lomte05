@@ -214,29 +214,7 @@ CyberFlixLMS             10 mins             ░░░░░░░░░░░�
 Windows                  32 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 32 hrs 4 mins (98.72%)
-
-✍️ 35,359 lines written by AI, 13 lines written by hand (99.96% AI-written)
-
-🔤 23,865,949 Input Tokens, 3,841,050 Output Tokens
-
-💵 $709.20 Estimated AI Cost This Week
-
-🧠 21 AI Sessions, 189 AI Prompts
-
-Opus                     33,722 lines        ███████████████████████░░   92.70 % 
-Sonnet                   2,654 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 765 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
-```
 
 **I Mostly Code in Python** 
 

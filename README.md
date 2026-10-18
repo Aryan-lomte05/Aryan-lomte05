@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-234%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-238%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -158,7 +158,7 @@ aryan = {
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,900 Contributions in the Year 2026
+> 🏆 2,901 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -169,10 +169,10 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1222 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-🌆 Daytime                13169 commits       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-🌃 Evening                27732 commits       ██████████░░░░░░░░░░░░░░░   41.68 % 
-🌙 Night                  24406 commits       █████████░░░░░░░░░░░░░░░░   36.68 % 
+🌞 Morning                1214 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+🌆 Daytime                13168 commits       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+🌃 Evening                27733 commits       ██████████░░░░░░░░░░░░░░░   41.69 % 
+🌙 Night                  24406 commits       █████████░░░░░░░░░░░░░░░░   36.69 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -180,10 +180,10 @@ aryan = {
 Monday                   3446 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 Tuesday                  9393 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Wednesday                8804 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Thursday                 8270 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Friday                   8911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Saturday                 15241 commits       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Sunday                   12464 commits       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Thursday                 8261 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Friday                   8911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Saturday                 15242 commits       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Sunday                   12464 commits       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 ```
 
 
@@ -193,50 +193,50 @@ Sunday                   12464 commits       █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               9 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.17 % 
-TypeScript               6 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Python                   5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Other                    2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JavaScript               8 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.66 % 
+TypeScript               4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Python                   2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 40 mins      ███████████████████████░░   93.93 % 
-Antigravity IDE          1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Claude Code              19 hrs 46 mins      ████████████████████████░   94.00 % 
+Antigravity IDE          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🐱‍💻 Projects: 
-Somaiya-Awards           12 hrs 2 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
-MurderMystery2026        7 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Cyber-Safe-Portal        3 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-the-heist-2.0            2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-AI-IA2                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Somaiya-Awards           8 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.28 % 
+MurderMystery2026        7 hrs               ████████░░░░░░░░░░░░░░░░░   33.27 % 
+the-heist-2.0            2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+AI-IA2                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+AI-LabCA                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Windows                  28 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 42 mins (97.54%)
+⏱ AI Coding Time: 20 hrs 37 mins (98.03%)
 
-✍️ 36,947 lines written by AI, 95 lines written by hand (99.74% AI-written)
+✍️ 23,930 lines written by AI, 94 lines written by hand (99.61% AI-written)
 
-🔤 20,328,284 Input Tokens, 3,494,038 Output Tokens
+🔤 14,948,793 Input Tokens, 2,460,151 Output Tokens
 
-💵 $1084.75 Estimated AI Cost This Week
+💵 $745.35 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 154 AI Prompts
+🧠 14 AI Sessions, 113 AI Prompts
 
-Opus                     38,031 lines        █████████████████████████   99.96 % 
-Sonnet                   12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Gemini                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Opus                     24,954 lines        █████████████████████████   99.95 % 
+Sonnet                   12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📄 Detailed Prompter — average 1,114 characters per prompt
+🤖 AI-Driven — 99.61% of written lines came from AI
+📄 Detailed Prompter — average 1,076 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🚀 High AI Trust — 0.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -256,7 +256,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 02:36:56 UTC
+ Last Updated on 18/10/2026 02:31:37 UTC
 <!--END_SECTION:waka-->
 
 ---

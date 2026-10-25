@@ -158,7 +158,7 @@ aryan = {
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,002 Contributions in the Year 2026
+> 🏆 3,020 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -169,21 +169,21 @@ aryan = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1429 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-🌆 Daytime                15371 commits       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-🌃 Evening                32628 commits       ███████████░░░░░░░░░░░░░░   42.10 % 
-🌙 Night                  28082 commits       █████████░░░░░░░░░░░░░░░░   36.23 % 
+🌞 Morning                1414 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+🌆 Daytime                15177 commits       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+🌃 Evening                32393 commits       ███████████░░░░░░░░░░░░░░   42.19 % 
+🌙 Night                  27795 commits       █████████░░░░░░░░░░░░░░░░   36.20 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4135 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Tuesday                  10773 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Wednesday                10492 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Thursday                 9322 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Friday                   10522 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Saturday                 17937 commits       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-Sunday                   14329 commits       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Monday                   4123 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Tuesday                  10712 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Wednesday                10419 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Thursday                 9232 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Friday                   10442 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Saturday                 17748 commits       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Sunday                   14103 commits       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
 ```
 
 
@@ -193,48 +193,48 @@ Sunday                   14329 commits       █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.87 % 
-Python                   4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Kotlin                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JavaScript               7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+Python                   4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+TypeScript               2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 27 mins      ██████████████████████░░░   88.38 % 
-Antigravity IDE          2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Claude Code              18 hrs 25 mins      ██████████████████████░░░   87.30 % 
+Antigravity IDE          2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 
 🐱‍💻 Projects: 
-Mediroute                5 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-CyberFlixLMS             2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-CatFish                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Cyber-Safe-Portal        2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-research                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Mediroute                5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+Somaiya-Awards           4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+CyberFlixLMS             2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+CatFish                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Cyber-Safe-Portal        2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 
 💻 Operating System: 
-Windows                  18 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 31 mins (99.53%)
+⏱ AI Coding Time: 21 hrs (99.57%)
 
-✍️ 36,802 lines written by AI, 1 lines written by hand (100.0% AI-written)
+✍️ 40,584 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 19,516,219 Input Tokens, 2,517,632 Output Tokens
+🔤 21,190,057 Input Tokens, 2,725,883 Output Tokens
 
-💵 $621.78 Estimated AI Cost This Week
+💵 $721.34 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 141 AI Prompts
+🧠 22 AI Sessions, 150 AI Prompts
 
-Opus                     37,428 lines        █████████████████████████   99.93 % 
-Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opus                     41,691 lines        █████████████████████████   99.94 % 
+Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 607 characters per prompt
+📄 Detailed Prompter — average 589 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -256,7 +256,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2026 02:54:52 UTC
+ Last Updated on 25/10/2026 02:46:32 UTC
 <!--END_SECTION:waka-->
 
 ---

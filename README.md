@@ -1,158 +1,98 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  ANIMATED HEADER                      -->
-<!-- ══════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ARYAN%20LOMTE&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Team%20Lead%20%40%20DeepCytes%20%E2%9A%A1%20GenAI%20Developer%20%E2%9A%A1%20ML%20Engineer&descAlignY=60&descColor=aef&descSize=20"/>
-
-<!-- PIXEL FONT BOOT SEQUENCE -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00D4FF&center=true&vCenter=true&width=820&lines=%3E+INITIALIZING+ARYAN.EXE...;%3E+LOADING+AI+SYSTEMS...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%3E+300%2C000%2B+CVEs+PROCESSED+%E2%9C%94;%3E+LLM+PIPELINES+ONLINE+%E2%9C%94;%3E+8-ENGINEER+TEAM+DEPLOYED+%E2%9C%94;%3E+SYSTEM+READY.+LET%27S+BUILD." alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/header-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/header-light.svg"/>
+  <img width="100%" alt="Aryan Lomte, AI Systems Engineer" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/header-dark.svg"/>
+</picture>
 
 <br/>
 
-<!-- STATUS BADGES -->
-<p>
-<img src="https://komarev.com/ghpvc/?username=Aryan-lomte05&label=👁️+PROFILE+VIEWS&color=00d4ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Aryan-lomte05?label=👥+FOLLOWERS&style=for-the-badge&color=bd93f9&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/⚡_STATUS-AVAILABLE_FOR_HIRE-00ff88?style=for-the-badge&labelColor=0d1117" />
-</p>
+<a href="https://aryan-lomte.in"><img src="https://img.shields.io/badge/aryan--lomte.in-15181D?style=flat-square&logo=safari&logoColor=E8E6E3" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/aryan-lomte-99ab68310"><img src="https://img.shields.io/badge/LinkedIn-15181D?style=flat-square&logo=linkedin&logoColor=E8E6E3" alt="LinkedIn"/></a> <a href="mailto:aryan.lomte@somaiya.edu"><img src="https://img.shields.io/badge/Email-15181D?style=flat-square&logo=maildotru&logoColor=E8E6E3" alt="Email"/></a>
 
-<p>
-<img src="https://img.shields.io/badge/📍_Mumbai-India-ff9f43?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🎓_CGPA-9.66%2F10-00d4ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🥈_NPTEL-Silver_Medalist-C0C0C0?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🥇_HACKATHON-1st_Prize_Winner-ff6b6b?style=for-the-badge&labelColor=0d1117" />
-</p>
+<br/>
 
-<!-- SOCIAL LINKS -->
-<p>
-<a href="https://aryan-lomte.in"><img src="https://img.shields.io/badge/Portfolio-aryan--lomte.in-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117"/></a>
-<a href="mailto:aryan.lomte@somaiya.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://linkedin.com/in/aryan-lomte"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://github.com/Aryan-lomte05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
-</p>
-
-<!-- PIXEL CODER GIF — hosted on GitHub CDN, stable link -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img width="100%" alt="Selected screens: Black Box, SentryNet, HeatGuard, Atlas, MediRoute, SwasthyaSakha, LawBench" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/showreel.svg"/>
 
 </div>
 
----
+<br/>
 
-## ⚙️ SYSTEM PROFILE
+I design agent infrastructure, grounded retrieval and offline-first AI systems, and I lead the teams
+that ship them. Computer Science and Business Systems at K. J. Somaiya School of Engineering.
 
-```python
-╔══════════════════════════════════════════════════════════════════╗
-║                   ARYAN_LOMTE.exe  v2.0                          ║
-╠══════════════════════════════════════════════════════════════════╣
+<br/>
 
-aryan = {
-    "role"       : "Team Lead @ DeepCytes Cyber Labs, UK 🇬🇧",
-    "also"       : "Joint Technical Head @ ECESA, KJSSE 🎖️",
-    "education"  : "B.Tech CSBS @ KJ Somaiya School of Engineering 🎓",
-    "cgpa"       : 9.66,
-    "location"   : "Mumbai, India 🇮🇳  (UTC +5:30)",
-    "portfolio"  : "https://aryan-lomte.in 🌐",
+**AI Team Lead** at DeepCytes Cyber Labs, UK, leading around 50 interns &nbsp;·&nbsp; **General Secretary** at ECESA &nbsp;·&nbsp; **CGPA 9.75**, latest semester 10.0
 
-    "superpowers": [
-        "LLM Fine-tuning  →  LoRA | QLoRA | Unsloth | PEFT",
-        "RAG Pipelines    →  Chroma | FAISS | embeddings",
-        "AI at scale      →  60K events/sec | 300K+ CVEs",
-        "Full-Stack Dev   →  React | Next.js | TypeScript",
-        "Team Leadership  →  8 • 17 • 30 engineers led",
-    ],
+<br/>
 
-    "numbers_that_slap": {
-        "CVEs processed"     : "300,000+  ⚡",
-        "analysis speedup"   : "3x faster",
-        "triage reduction"   : "65–70%",
-        "scan time"          : "hours → 90 seconds  (60x cut 🔥)",
-        "real-time events"   : "60,000+ per second",
-        "model accuracy"     : "20% ──────────────▶ 85%",
-        "memory optimized"   : "4 GB ──────▶ 2.5 GB (4-bit quant)",
-    },
+## Selected work
 
-    "current_mission" : "Build AI systems that actually matter 🚀",
-    "fun_fact"        : "I fine-tune LLMs and lead teams. Simultaneously. 💀",
-}
+| | | |
+|:--|:--|:--|
+| **Black Box** | A flight recorder for AI agents. Records every model call, tool call and memory change, ranks the step most likely to be at fault, then proves it by replaying the run with only that step repaired. | [PyPI](https://pypi.org/project/halfabyte-blackbox/) |
+| **Sovereign Workbench** | An agentic workbench for a refinery whose documents cannot leave its network. Reads scanned reports, answers with citations, does the engineering maths with verified tools. Zero bytes of egress, shown live in the UI. | [Demo](https://youtu.be/ZE46AfYfdKA) |
+| **VARUNA** | Joins 3.96M ARGO ocean observations with CMLRE biodiversity records so one question can cross both, and warns ahead of marine heatwaves. | |
+| **SwasthyaSakha** | Multilingual health assistant over WhatsApp, SMS, IVR, Telegram and Discord. BioMistral-7B fine-tuned on 28,000 pairs took Hindi accuracy from 20% to 85%. First prize, Periscope 2025. | [Live](https://quant-ai-health-bot.vercel.app) |
+| **Atlas** | Give it a goal rather than a query. It reasons step by step across six live tools and rearranges the days around the weather. | [Live](https://atlas-travel-agent-theta.vercel.app) |
+| **HeatGuard** | Turns a temperature reading into an IMD heatwave verdict through 59 production rules, with the whole chain of reasoning on display. | [Live](https://heatguard-atlas.vercel.app) |
 
-╚══════════════════════════════════════════════════════════════════╝
-```
+<br/>
 
----
+## At DeepCytes Cyber Labs
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+AI Team Lead, around 50 interns across the lab's platform work.
+
+| | | |
+|:--|:--|:--|
+| **SentryNet** | Autonomous asset intelligence. Eight agents reconstruct an organisation's externally observable footprint from evidence, with client identities tokenised in memory before anything reaches a model. Overall team lead. | [Live](https://hades.deepcytes.io/sentrynet/login) |
+| **Hades** | Graph based offensive security. Recon to exploitation chains assembled as a DAG of tools and run in one pass, findings passed between stages and streamed live. | |
+| **Hermes** | API estate intelligence. Finds shadow, zombie and undocumented APIs, version sprawl and ownership drift from evidence, and reaches for a model only once deterministic reasoning runs out. | |
+| **Operative** | OSINT dashboard that aggregates digital footprints, maps trajectories, tracks breach intelligence and exposes infrastructure risk for a monitored target. | |
+| **ZeroWatch** | CVE intelligence aggregated live from MITRE, NVD, CVEMAP and EPSS, with watchlists, alerts and team oversight. | |
+| **CyberSafe** | First aid for cybercrime victims. Works out what happened, gives verified guidance and helps them report it. Live in India, UK build on the same platform. | [Live](https://cybersafe.deepcytes.io) |
+| **CyberFlix** | Operative grade security training and report viewer, with an AI layer on top. | |
+
+Earlier work there: **300,000+** CVEs through an LLM analysis pipeline with triage down 65 to 70%, an iOS spyware
+scan cut from hours to **90 seconds** across 29 behavioural indicators, and a live threat map at **60,000 events per second**.
+
+<br/>
+
+## Toolkit
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║  🥇  1ST PLACE  ─  Periscope Digital Healthcare Hackathon 2025    ║
-║                                                                    ║
-║  ⚡  3x FASTER CVE ANALYSIS  ─  300,000+ records processed        ║
-║  🔐  60x SCAN TIME CUT  ─  hours → 90 seconds, 0 false positives  ║
-║  🌊  60,000+ EVENTS/SEC  ─  real-time threat visualization         ║
-║  🧠  BioMistral-7B  ─  Hindi accuracy 20% ━━━━━━━━━━━━━━▶ 85%   ║
-║  👥  TEAMS LED  ─  8 engineers • 17 interns • 30+ teams           ║
-║  📚  1,200+ OSINT TOOLS  ─  documented and standardized            ║
-║  🎓  CGPA 9.66  ─  Class Rep ×2  ─  NPTEL Silver Medalist 🥈     ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://skillicons.dev/icons?i=python,typescript,pytorch,fastapi,nextjs,react,docker,azure,postgresql,mongodb&theme=dark" height="38"/>
+
+<img src="https://img.shields.io/badge/Agentic%20AI-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/RAG%20·%20GraphRAG-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/LoRA%20·%20QLoRA%20·%20Unsloth-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/Quantization-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/Federated%20Learning-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/Ollama-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/Groq-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/NVIDIA%20NIM-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/ChromaDB-15181D?style=flat-square" height="23"/> <img src="https://img.shields.io/badge/PostGIS-15181D?style=flat-square" height="23"/>
 
 </div>
 
----
+<br/>
 
-## 🌐 LIVE PROJECTS
+## Activity
 
 <div align="center">
 
-> *Click to visit the live deployments 👇*
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=Aryan-lomte05&show_icons=true&count_private=true&rank_icon=github&bg_color=00000000&hide_border=true&title_color=8B7CF6&text_color=768390&icon_color=4BC8C0"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-lomte05&layout=compact&langs_count=6&bg_color=00000000&hide_border=true&title_color=8B7CF6&text_color=768390"/>
 
-<p>
-<a href="https://murder-mystery-cyan.vercel.app">
-  <img src="https://img.shields.io/badge/🔪_Murder_Mystery-LIVE-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://www.ecesakjsse-agritech.com">
-  <img src="https://img.shields.io/badge/🌾_AgriTech_Hackathon-LIVE-00ff88?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://quant-ai-health-bot.vercel.app">
-  <img src="https://img.shields.io/badge/🤖_Quant_AI_Health_Bot-LIVE-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://svu-sgpi-calc.vercel.app">
-  <img src="https://img.shields.io/badge/🎓_SGPI_Calculator-LIVE-bd93f9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-</a>
-<a href="https://aryanevm.vercel.app">
-  <img src="https://img.shields.io/badge/🗳️_AryanEVM-LIVE-ff9f43?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman.svg"/>
+  <img width="96%" alt="Contribution graph" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman-dark.svg"/>
+</picture>
 
 </div>
 
----
+<br/>
 
----
-
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aryan-lomte05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Aryan's GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## ⏱️ WAKATIME CODING STATS
+<details>
+<summary><sub><b>WHERE THE HOURS GO</b></sub></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2023%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -203,41 +143,10 @@ Kotlin                   1 hr 15 mins        ██░░░░░░░░░�
 Claude Code              14 hrs 7 mins       █████████████████████░░░░   84.72 % 
 Antigravity IDE          2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 
-🐱‍💻 Projects: 
-Somaiya-Awards           4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-CyberFlixLMS             2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-CatFish                  2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Cyber-Safe-Portal        1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-research                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-
 💻 Operating System: 
 Windows                  16 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 hrs 33 mins (99.31%)
-
-✍️ 26,531 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 21,817,289 Input Tokens, 2,239,651 Output Tokens
-
-💵 $614.96 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 145 AI Prompts
-
-Opus                     27,489 lines        █████████████████████████   99.91 % 
-Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 839 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
 
 **I Mostly Code in Python** 
 
@@ -259,160 +168,28 @@ Java                     2 repos             █░░░░░░░░░░�
  Last Updated on 27/10/2026 03:22:35 UTC
 <!--END_SECTION:waka-->
 
----
-
-## 📊 CONTRIBUTION METRICS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-lomte05&theme=tokyonight&hide_border=true" width="100%"/>
+</details>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan-lomte05&theme=tokyonight&hide_border=true" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan-lomte05&theme=tokyonight&hide_border=true" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-lomte05&theme=tokyonight&hide_border=true&utcOffset=5.5" width="32%"/>
+## Recognition
+
+| | | |
+|:--|:--|:--|
+| 2026 | Black Box published to PyPI | [halfabyte-blackbox](https://pypi.org/project/halfabyte-blackbox/) |
+| 2025 | First prize, Periscope Digital Healthcare Hackathon | |
+| 2025 | Silver Medalist, Programming in Java | [NPTEL, IIT Kharagpur](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS110S46370275810388317) |
+| 2025 | AI Developer Professional Certificate | [Coursera, IBM](https://coursera.org/verify/professional-cert/SVG1XROEB2RX) |
+| 2025 | Introduction to Machine Learning | [NPTEL, IIT Madras](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS91S36370065610388317) |
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aryan-lomte05&theme=tokyonight&hide_border=true" width="32%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Aryan-lomte05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="65%"/>
-
-</div>
-
----
-
-## 📈 GITHUB STATS
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-lomte05&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=Aryan-lomte05&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6b6b&currStreakLabel=70a5fd"/>
-
-</div>
-
----
-
-## ⚡ ACTIVITY GRAPH
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-lomte05&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff6b6b&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🛠️ TECH ARSENAL
-
-<div align="center">
-
-### 🧠 AI & MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-<p>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LoRA_%2F_QLoRA-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-4ECDC4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unsloth-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LSTM-FF9F43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
-</p>
-
-### 🚀 BACKEND & APIs
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,express,docker&theme=dark" />
-
-### 🎨 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,html,css&theme=dark" />
-
-### ☁️ CLOUD & INFRA
-
-<img src="https://skillicons.dev/icons?i=azure,docker,vercel,github,githubactions&theme=dark" />
-<p>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
-<img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-</p>
-
-### 🗄️ DATABASES
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" />
-
-### 💻 LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,typescript,javascript&theme=dark" />
-
-</div>
-
----
-
-## 🚀 FEATURED PROJECTS
-
-
-
-<div align="center">
-
-[![SmartStudyPlanner](https://github-readme-stats.vercel.app/api/pin/?username=Aryan-lomte05&repo=SmartStudyPlanner&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)](https://github.com/Aryan-lomte05/SmartStudyPlanner)
-[![AgriTech](https://github-readme-stats.vercel.app/api/pin/?username=Aryan-lomte05&repo=AgriTech-E-CESA&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)](https://github.com/Aryan-lomte05/AgriTech-E-CESA)
-[![CyberThreatAPI](https://github-readme-stats.vercel.app/api/pin/?username=Aryan-lomte05&repo=cyber-threat-api&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3)](https://github.com/Aryan-lomte05/cyber-threat-api)
-
-</div>
-
----
-
-## 👾 PAC-MAN CHASES YOUR COMMITS
-
-<div align="center">
-
-**Pac-Man hunting the snake — 3 cells behind, same path**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman.svg"/>
-  <img alt="pacman chasing snake" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/output/github-contribution-grid-snake-pacman-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/footer-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/footer-light.svg"/>
+  <img width="100%" alt="Open to roles, research and collaboration" src="https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/footer-dark.svg"/>
 </picture>
-
-</div>
-
----
-
-## 🏅 CERTIFICATIONS
-
-<div align="center">
-
-| | Certification | Issuer | Year |
-|:---:|:---|:---|:---:|
-| <img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=ibm&logoColor=white"/> | [IBM AI Developer Professional Certificate](https://coursera.org/verify/professional-cert/SVG1XROEB2RX) | Coursera (IBM) | **2025** |
-| 🥈 | [Programming in Java — **Silver Medalist**](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS110S46370275810388317) | NPTEL · IIT Kharagpur | **2025** |
-| 🧠 | [Introduction to Machine Learning](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS91S36370065610388317) | NPTEL · IIT Madras | **2025** |
-| 🐍 | [Python for Data Science](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS60S44020268101247138) | NPTEL · IIT Madras | **2025** |
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 TRANSMISSION COMPLETE
-
-```
-█████████████████████████████████████████████████████
-█                                                   █
-█   > "Ship fast. Break nothing. Lead well."        █
-█                                                   █
-█   > OPEN TO: Full-time | Internships | Collabs    █
-█   > REACH ME: aryan.lomte@somaiya.edu             █
-█                                                   █
-█████████████████████████████████████████████████████
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=THANKS+FOR+VISITING+👾;LET'S+BUILD+SOMETHING+INSANE+🚀;ALWAYS+OPEN+TO+COLLABS+%26+OPPORTUNITIES!" />
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>

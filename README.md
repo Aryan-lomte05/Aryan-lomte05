@@ -148,9 +148,9 @@ aryan = {
 ## ⏱️ WAKATIME CODING STATS
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -158,7 +158,7 @@ aryan = {
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 3,041 Contributions in the Year 2026
+> 🏆 3,062 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -170,18 +170,18 @@ aryan = {
 
 ```text
 🌞 Morning                1415 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-🌆 Daytime                15177 commits       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-🌃 Evening                32427 commits       ███████████░░░░░░░░░░░░░░   42.21 % 
-🌙 Night                  27802 commits       █████████░░░░░░░░░░░░░░░░   36.19 % 
+🌆 Daytime                15177 commits       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+🌃 Evening                32449 commits       ███████████░░░░░░░░░░░░░░   42.23 % 
+🌙 Night                  27802 commits       █████████░░░░░░░░░░░░░░░░   36.18 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4123 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Monday                   4145 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 Tuesday                  10712 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 Wednesday                10420 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 Thursday                 9243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Friday                   10444 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Friday                   10444 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 Saturday                 17749 commits       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
 Sunday                   14130 commits       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 ```
@@ -193,48 +193,48 @@ Sunday                   14130 commits       █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               7 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
-Python                   4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Other                    1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Markdown                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+JavaScript               4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+Python                   3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+TypeScript               2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Other                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Kotlin                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 43 mins      ██████████████████████░░░   87.64 % 
-Antigravity IDE          2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Claude Code              14 hrs 7 mins       █████████████████████░░░░   84.72 % 
+Antigravity IDE          2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 
 🐱‍💻 Projects: 
-Mediroute                5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Somaiya-Awards           4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-CyberFlixLMS             2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Portfolio_Website        2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-CatFish                  2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Somaiya-Awards           4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+CyberFlixLMS             2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+CatFish                  2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Cyber-Safe-Portal        1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+research                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 💻 Operating System: 
-Windows                  22 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 21 mins (99.34%)
+⏱ AI Coding Time: 16 hrs 33 mins (99.31%)
 
-✍️ 39,907 lines written by AI, 1 lines written by hand (100.0% AI-written)
+✍️ 26,531 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,126,985 Input Tokens, 2,821,617 Output Tokens
+🔤 21,817,289 Input Tokens, 2,239,651 Output Tokens
 
-💵 $747.99 Estimated AI Cost This Week
+💵 $614.96 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 166 AI Prompts
+🧠 18 AI Sessions, 145 AI Prompts
 
-Opus                     41,022 lines        █████████████████████████   99.94 % 
-Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Opus                     27,489 lines        █████████████████████████   99.91 % 
+Sonnet                   25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 651 characters per prompt
+📄 Detailed Prompter — average 839 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -256,7 +256,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 02:46:14 UTC
+ Last Updated on 27/10/2026 03:22:35 UTC
 <!--END_SECTION:waka-->
 
 ---

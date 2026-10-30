@@ -92,13 +92,13 @@ scan cut from hours to **90 seconds** across 29 behavioural indicators, and a li
 <summary><sub><b>WHERE THE HOURS GO</b></sub></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%203%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2038%20mins-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 5,394 Contributions in the Year 2026
+> 🏆 5,400 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,7 +110,7 @@ scan cut from hours to **90 seconds** across 29 behavioural indicators, and a li
 
 ```text
 🌞 Morning                1552 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-🌆 Daytime                15368 commits       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+🌆 Daytime                15374 commits       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 🌃 Evening                32605 commits       ███████████░░░░░░░░░░░░░░   42.22 % 
 🌙 Night                  27700 commits       █████████░░░░░░░░░░░░░░░░   35.87 % 
 ```
@@ -118,10 +118,10 @@ scan cut from hours to **90 seconds** across 29 behavioural indicators, and a li
 
 ```text
 Monday                   4286 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Tuesday                  10800 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Tuesday                  10800 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 Wednesday                10508 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Thursday                 9273 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Friday                   10468 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Thursday                 9279 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Friday                   10468 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 Saturday                 17708 commits       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
 Sunday                   14182 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
 ```
@@ -133,18 +133,19 @@ Sunday                   14182 commits       █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Python                   2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-TypeScript               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+JavaScript               2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+TypeScript               1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Markdown                 1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Python                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Other                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 14 mins      █████████████████████░░░░   84.85 % 
-Antigravity IDE          1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Claude Code              8 hrs 31 mins       ███████████████████████░░   90.50 % 
+Antigravity IDE          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  12 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -164,7 +165,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Aryan-lomte05/Aryan-lomte05/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 03:59:25 UTC
+ Last Updated on 30/10/2026 04:00:42 UTC
 <!--END_SECTION:waka-->
 
 </details>

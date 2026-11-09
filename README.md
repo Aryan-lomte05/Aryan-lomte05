@@ -31,12 +31,15 @@ that ship them. Computer Science and Business Systems at K. J. Somaiya School of
 
 | | | |
 |:--|:--|:--|
-| **Black Box** | A flight recorder for AI agents. Records every model call, tool call and memory change, ranks the step most likely to be at fault, then proves it by replaying the run with only that step repaired. | [PyPI](https://pypi.org/project/halfabyte-blackbox/) |
+| **Black Box** | A flight recorder for AI agents. Records every model call, tool call and memory change, ranks the step most likely to be at fault, then proves it by replaying the run with only that step repaired. | [Code](https://github.com/Aryan-lomte05/blackbox) &nbsp;&middot;&nbsp; [PyPI](https://pypi.org/project/halfabyte-blackbox/) |
+| **Synapse** | A compiler and runtime for AI agent workflows. Compiles a workflow to a typed graph, measures it, rewrites it to run faster or cheaper, and blocks any rewrite that fails an equivalence check. Steps that move money or send mail are never reordered, repeated or cached. | [PyPI](https://pypi.org/project/halfabyte-synapse/) &nbsp;&middot;&nbsp; [Plugin](https://github.com/Aryan-lomte05/halfabyte-synapse-plugin) |
 | **Sovereign Workbench** | An agentic workbench for a refinery whose documents cannot leave its network. Reads scanned reports, answers with citations, does the engineering maths with verified tools. Zero bytes of egress, shown live in the UI. | [Demo](https://youtu.be/ZE46AfYfdKA) |
 | **VARUNA** | Joins 3.96M ARGO ocean observations with CMLRE biodiversity records so one question can cross both, and warns ahead of marine heatwaves. | |
-| **SwasthyaSakha** | Multilingual health assistant over WhatsApp, SMS, IVR, Telegram and Discord. BioMistral-7B fine-tuned on 28,000 pairs took Hindi accuracy from 20% to 85%. First prize, Periscope 2025. | [Live](https://quant-ai-health-bot.vercel.app) |
-| **Atlas** | Give it a goal rather than a query. It reasons step by step across six live tools and rearranges the days around the weather. | [Live](https://atlas-travel-agent-theta.vercel.app) |
-| **HeatGuard** | Turns a temperature reading into an IMD heatwave verdict through 59 production rules, with the whole chain of reasoning on display. | [Live](https://heatguard-atlas.vercel.app) |
+| **SwasthyaSakha** | Multilingual health assistant over WhatsApp, SMS, IVR, Telegram and Discord. BioMistral-7B fine-tuned on 28,000 pairs took Hindi accuracy from 20% to 85%. First prize, Periscope 2025. | [Live](https://quant-ai-health-bot.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/Aryan-lomte05/Quant.ai-HealthBot) |
+| **Atlas** | Give it a goal rather than a query. It reasons step by step across six live tools and rearranges the days around the weather. | [Live](https://atlas-travel-agent-theta.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/Aryan-lomte05/Atlas) |
+| **HeatGuard** | Turns a temperature reading into an IMD heatwave verdict through 59 production rules, with the whole chain of reasoning on display. | [Live](https://heatguard-atlas.vercel.app) &nbsp;&middot;&nbsp; [Code](https://github.com/Aryan-lomte05/AI-LabCA) |
+| **MyCycle** | Menstrual health screening against a person's own baseline rather than a population average. Raw logs never leave the device; explanations in English, Hindi and Marathi. Reports its negative results. | [Code](https://github.com/Aryan-lomte05/MyCycle) |
+| **Aanchal** | Federated distress monitoring for victims of atrocities. Raw transcripts and identities stay inside a district node; only hashed, anonymised scores reach national dashboards, enforced by a validator. | [Code](https://github.com/Aryan-lomte05/Aanchal) |
 
 <br/>
 
@@ -176,7 +179,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 | | | |
 |:--|:--|:--|
-| 2026 | Black Box published to PyPI | [halfabyte-blackbox](https://pypi.org/project/halfabyte-blackbox/) |
+| 2026 | Black Box published to PyPI | [halfabyte-blackbox](https://pypi.org/project/halfabyte-blackbox/) &nbsp;&middot;&nbsp; [repo](https://github.com/Aryan-lomte05/blackbox) |
 | 2025 | First prize, Periscope Digital Healthcare Hackathon | |
 | 2025 | Silver Medalist, Programming in Java | [NPTEL, IIT Kharagpur](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS110S46370275810388317) |
 | 2025 | AI Developer Professional Certificate | [Coursera, IBM](https://coursera.org/verify/professional-cert/SVG1XROEB2RX) |
